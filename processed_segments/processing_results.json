@@ -1,0 +1,208 @@
+{
+  "processed_files": [
+    {
+      "input_file": "audio_samples\\0YWpkJkbXxs_Never lose power again. UPS UNBOXING..m4a",
+      "segments": [
+        {
+          "segment_id": 21,
+          "start_time": 680.8555102040816,
+          "end_time": 683.9437641723356,
+          "duration": 3.0882539682539685,
+          "snr": 18.992488666084498,
+          "voice_activity": 0.9411764705882353,
+          "spectral_quality": 0.0010792608196578636,
+          "clarity": 1,
+          "quality_score": 0.6724936800012471,
+          "output_file": "processed_segments\\0YWpkJkbXxs_Never lose power again. UPS UNBOXING._segment_0.wav",
+          "source_file": "audio_samples\\0YWpkJkbXxs_Never lose power again. UPS UNBOXING..m4a"
+        },
+        {
+          "segment_id": 16,
+          "start_time": 451.3494784580499,
+          "end_time": 454.90213151927435,
+          "duration": 3.5526530612244898,
+          "snr": 16.081874245136206,
+          "voice_activity": 0.9830508474576272,
+          "spectral_quality": 0.0007042173702673872,
+          "clarity": 1,
+          "quality_score": 0.6558748401627037,
+          "output_file": "processed_segments\\0YWpkJkbXxs_Never lose power again. UPS UNBOXING._segment_1.wav"
+        },
+        {
+          "segment_id": 19,
+          "start_time": 513.811156462585,
+          "end_time": 517.4799092970521,
+          "duration": 3.6687528344671203,
+          "snr": 16.06879137566956,
+          "voice_activity": 0.9672131147540983,
+          "spectral_quality": 0.0005960817585288657,
+          "clarity": 1,
+          "quality_score": 0.6509710645346309,
+          "output_file": "processed_segments\\0YWpkJkbXxs_Never lose power again. UPS UNBOXING._segment_2.wav"
+        }
+      ],
+      "total_segments": 32
+    },
+    {
+      "input_file": "audio_samples\\JXHPIahTayU_What era are you in\uff1f.m4a",
+      "segments": [],
+      "total_segments": 0
+    },
+    {
+      "input_file": "audio_samples\\KpuEkonkuiU_2025 06 03 21 19 15.m4a",
+      "segments": [
+        {
+          "segment_id": 3,
+          "start_time": 57.655147392290246,
+          "end_time": 60.836281179138325,
+          "duration": 3.1811337868480725,
+          "snr": 15.830618132277056,
+          "voice_activity": 0.9716981132075472,
+          "spectral_quality": 0.0007769313281975808,
+          "clarity": 1,
+          "quality_score": 0.6499710015506741,
+          "output_file": "processed_segments\\KpuEkonkuiU_2025 06 03 21 19 15_segment_0.wav",
+          "source_file": "audio_samples\\KpuEkonkuiU_2025 06 03 21 19 15.m4a"
+        },
+        {
+          "segment_id": 0,
+          "start_time": 3.5526530612244898,
+          "end_time": 7.63936507936508,
+          "duration": 4.08671201814059,
+          "snr": 15.059799429697334,
+          "voice_activity": 0.9852941176470589,
+          "spectral_quality": 0.0008108731607592571,
+          "clarity": 1,
+          "quality_score": 0.6463484042232428,
+          "output_file": "processed_segments\\KpuEkonkuiU_2025 06 03 21 19 15_segment_1.wav"
+        },
+        {
+          "segment_id": 1,
+          "start_time": 33.52961451247165,
+          "end_time": 37.77886621315193,
+          "duration": 4.249251700680272,
+          "snr": 14.221867514451338,
+          "voice_activity": 0.9929078014184397,
+          "spectral_quality": 0.0008255868681564065,
+          "clarity": 1,
+          "quality_score": 0.6402561329436766,
+          "output_file": "processed_segments\\KpuEkonkuiU_2025 06 03 21 19 15_segment_2.wav"
+        }
+      ],
+      "total_segments": 4
+    },
+    {
+      "input_file": "audio_samples\\Uh34kDEF500_AI's Revolutionary Impact on Software.m4a",
+      "segments": [
+        {
+          "segment_id": 0,
+          "start_time": 84.38131519274377,
+          "end_time": 87.98040816326531,
+          "duration": 3.599092970521542,
+          "snr": 6.575109756467659,
+          "voice_activity": 1.0,
+          "spectral_quality": 0.000984745698799143,
+          "clarity": 0.7680103760434338,
+          "quality_score": 0.5195501219131232,
+          "output_file": "processed_segments\\Uh34kDEF500_AI's Revolutionary Impact on Software_segment_0.wav",
+          "source_file": "audio_samples\\Uh34kDEF500_AI's Revolutionary Impact on Software.m4a"
+        },
+        {
+          "segment_id": 1,
+          "start_time": 93.3209977324263,
+          "end_time": 97.82566893424037,
+          "duration": 4.504671201814059,
+          "snr": 6.097077346568066,
+          "voice_activity": 1.0,
+          "spectral_quality": 0.000593713595549674,
+          "clarity": 0.7667398855516442,
+          "quality_score": 0.5144374932951195,
+          "output_file": "processed_segments\\Uh34kDEF500_AI's Revolutionary Impact on Software_segment_1.wav"
+        }
+      ],
+      "total_segments": 2
+    },
+    {
+      "input_file": "audio_samples\\w4sarAE9h9I_Turn YouTube Transcripts into Effective Content with Make.com.m4a",
+      "segments": [
+        {
+          "segment_id": 0,
+          "start_time": 1439.242448979592,
+          "end_time": 1442.7022222222222,
+          "duration": 3.4597732426303853,
+          "snr": 5.21621365753072,
+          "voice_activity": 1.0,
+          "spectral_quality": 0.0007799962620582614,
+          "clarity": 1,
+          "quality_score": 0.5523181358277189,
+          "output_file": "processed_segments\\w4sarAE9h9I_Turn YouTube Transcripts into Effective Content with Make.com_segment_0.wav",
+          "source_file": "audio_samples\\w4sarAE9h9I_Turn YouTube Transcripts into Effective Content with Make.com.m4a"
+        }
+      ],
+      "total_segments": 1
+    }
+  ],
+  "best_segments": [
+    {
+      "segment_id": 21,
+      "start_time": 680.8555102040816,
+      "end_time": 683.9437641723356,
+      "duration": 3.0882539682539685,
+      "snr": 18.992488666084498,
+      "voice_activity": 0.9411764705882353,
+      "spectral_quality": 0.0010792608196578636,
+      "clarity": 1,
+      "quality_score": 0.6724936800012471,
+      "output_file": "processed_segments\\0YWpkJkbXxs_Never lose power again. UPS UNBOXING._segment_0.wav",
+      "source_file": "audio_samples\\0YWpkJkbXxs_Never lose power again. UPS UNBOXING..m4a"
+    },
+    {
+      "segment_id": 3,
+      "start_time": 57.655147392290246,
+      "end_time": 60.836281179138325,
+      "duration": 3.1811337868480725,
+      "snr": 15.830618132277056,
+      "voice_activity": 0.9716981132075472,
+      "spectral_quality": 0.0007769313281975808,
+      "clarity": 1,
+      "quality_score": 0.6499710015506741,
+      "output_file": "processed_segments\\KpuEkonkuiU_2025 06 03 21 19 15_segment_0.wav",
+      "source_file": "audio_samples\\KpuEkonkuiU_2025 06 03 21 19 15.m4a"
+    },
+    {
+      "segment_id": 0,
+      "start_time": 1439.242448979592,
+      "end_time": 1442.7022222222222,
+      "duration": 3.4597732426303853,
+      "snr": 5.21621365753072,
+      "voice_activity": 1.0,
+      "spectral_quality": 0.0007799962620582614,
+      "clarity": 1,
+      "quality_score": 0.5523181358277189,
+      "output_file": "processed_segments\\w4sarAE9h9I_Turn YouTube Transcripts into Effective Content with Make.com_segment_0.wav",
+      "source_file": "audio_samples\\w4sarAE9h9I_Turn YouTube Transcripts into Effective Content with Make.com.m4a"
+    },
+    {
+      "segment_id": 0,
+      "start_time": 84.38131519274377,
+      "end_time": 87.98040816326531,
+      "duration": 3.599092970521542,
+      "snr": 6.575109756467659,
+      "voice_activity": 1.0,
+      "spectral_quality": 0.000984745698799143,
+      "clarity": 0.7680103760434338,
+      "quality_score": 0.5195501219131232,
+      "output_file": "processed_segments\\Uh34kDEF500_AI's Revolutionary Impact on Software_segment_0.wav",
+      "source_file": "audio_samples\\Uh34kDEF500_AI's Revolutionary Impact on Software.m4a"
+    }
+  ],
+  "statistics": {
+    "total_files_processed": 5,
+    "total_segments_found": 4,
+    "average_quality_score": 0.5985832348231909,
+    "best_quality_score": 0.6724936800012471,
+    "average_snr": 11.653607553089984,
+    "average_voice_activity": 0.9782186459489456,
+    "quality_score_std": 0.06420698715282669
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "test_cases": [
+    {
+      "id": "english_short",
+      "text": "Hello, this is a test of the text-to-speech system.",
+      "language": "en",
+      "category": "basic",
+      "expected_duration": 3.0
+    },
+    {
+      "id": "english_medium",
+      "text": "The quick brown fox jumps over the lazy dog. This pangram contains every letter of the alphabet and is commonly used for testing purposes.",
+      "language": "en",
+      "category": "pangram",
+      "expected_duration": 8.0
+    },
+    {
+      "id": "english_emotional",
+      "text": "I'm absolutely thrilled to announce this exciting breakthrough! This technology will revolutionize how we communicate.",
+      "language": "en",
+      "category": "emotional",
+      "expected_duration": 6.0
+    },
+    {
+      "id": "english_technical",
+      "text": "The neural network architecture utilizes transformer-based attention mechanisms to generate high-quality speech synthesis with minimal latency.",
+      "language": "en",
+      "category": "technical",
+      "expected_duration": 7.0
+    },
+    {
+      "id": "multilingual_spanish",
+      "text": "Hola, ¿cómo estás? Me llamo María y soy de España.",
+      "language": "es",
+      "category": "multilingual",
+      "expected_duration": 4.0
+    },
+    {
+      "id": "multilingual_french",
+      "text": "Bonjour, je m'appelle Pierre et je viens de France.",
+      "language": "fr",
+      "category": "multilingual",
+      "expected_duration": 4.0
+    },
+    {
+      "id": "multilingual_german",
+      "text": "Guten Tag, ich heiße Anna und komme aus Deutschland.",
+      "language": "de",
+      "category": "multilingual",
+      "expected_duration": 4.0
+    },
+    {
+      "id": "numbers_dates",
+      "text": "Today is January 15th, 2024. The temperature is 23.5 degrees Celsius, and the time is 3:45 PM.",
+      "language": "en",
+      "category": "numbers",
+      "expected_duration": 6.0
+    },
+    {
+      "id": "difficult_pronunciation",
+      "text": "She sells seashells by the seashore. The shells she sells are surely seashells.",
+      "language": "en",
+      "category": "pronunciation",
+      "expected_duration": 5.0
+    },
+    {
+      "id": "long_sentence",
+      "text": "In the heart of the bustling metropolis, where towering skyscrapers pierce the azure sky and countless souls navigate the labyrinthine streets below, there exists a small café that serves the most extraordinary coffee, brewed from beans that have traveled across continents and oceans to reach this humble establishment.",
+      "language": "en",
+      "category": "long_form",
+      "expected_duration": 15.0
+    }
+  ],
+  "voice_cloning_tests": [
+    {
+      "id": "clone_test_1",
+      "text": "This is a test of voice cloning capabilities.",
+      "reference_audio_duration": 5.0,
+      "category": "basic_cloning"
+    },
+    {
+      "id": "clone_test_multilingual",
+      "text": "Hello, how are you today?",
+      "text_spanish": "Hola, ¿cómo estás hoy?",
+      "reference_audio_duration": 8.0,
+      "category": "cross_lingual_cloning"
+    }
+  ],
+  "performance_tests": [
+    {
+      "id": "latency_short",
+      "text": "Quick test.",
+      "iterations": 10,
+      "category": "latency"
+    },
+    {
+      "id": "latency_medium",
+      "text": "This is a medium length sentence for testing latency.",
+      "iterations": 5,
+      "category": "latency"
+    },
+    {
+      "id": "memory_stress",
+      "text": "This is a stress test for memory usage during synthesis.",
+      "iterations": 20,
+      "category": "memory"
+    }
+  ]
+}

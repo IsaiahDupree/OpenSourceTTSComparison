@@ -1,0 +1,18 @@
+{
+  "name": "opensourcettscomparison",
+  "version": "1.0.0",
+  "description": "A comprehensive benchmark and comparison of leading open-source Text-to-Speech models against commercial solutions like ElevenLabs.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ytdl-core": "^4.11.5"
+  }
+}
