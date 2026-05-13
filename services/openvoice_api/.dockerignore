@@ -1,0 +1,27 @@
+# Limit build context and ignore local clutter
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.env
+.env.*
+.venv/
+venv*/
+
+# IDE
+.vscode/
+.idea/
+
+# Builds
+build/
+dist/
+*.egg-info/
+
+# Data and checkpoints (mount at runtime)
+checkpoints_v2/
+checkpoints_v2_*.zip
+outputs*/
+*.wav
+*.mp3
+*.m4a

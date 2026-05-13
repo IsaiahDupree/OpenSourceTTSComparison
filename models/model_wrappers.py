@@ -12,6 +12,7 @@ from pathlib import Path
 from typing import Optional, Dict, Any
 import soundfile as sf
 from abc import ABC, abstractmethod
+import librosa
 
 logger = logging.getLogger(__name__)
 
@@ -49,12 +50,18 @@ class ChatterboxWrapper(TTSModelWrapper):
     
     def __init__(self):
         super().__init__("Chatterbox")
+        self.device = "cpu"
+        self.model_sr = 24000
+        self.output_sr = 22050  # normalize to benchmark expected SR
         
     def load_model(self) -> bool:
         """Load Chatterbox model."""
         try:
             import chatterbox
-            self.model = chatterbox.TTS()
+            self.device = "cuda" if torch.cuda.is_available() else "cpu"
+            # Use official factory
+            self.model = chatterbox.ChatterboxTTS.from_pretrained(self.device)
+            self.model_sr = int(getattr(self.model, "sr", 24000))
             self.is_loaded = True
             logger.info("✅ Chatterbox model loaded successfully")
             return True
@@ -71,9 +78,28 @@ class ChatterboxWrapper(TTSModelWrapper):
             raise RuntimeError("Model not loaded")
         
         try:
-            # Chatterbox API call (placeholder - adjust based on actual API)
-            audio = self.model.synthesize(text)
-            return np.array(audio, dtype=np.float32)
+            audio_prompt_path = kwargs.get("audio_prompt_path")
+            exaggeration = kwargs.get("exaggeration", 0.5)
+            conds_path = kwargs.get("conds_path")
+
+            # If a saved Conditionals file is provided, load and set it.
+            if conds_path:
+                try:
+                    from chatterbox.tts import Conditionals
+                    self.model.conds = Conditionals.load(conds_path, map_location=self.device).to(self.device)
+                except Exception as e:
+                    logger.warning(f"Failed to load conds from {conds_path}: {e}")
+
+            audio_tensor = self.model.generate(
+                text,
+                audio_prompt_path=audio_prompt_path,
+                exaggeration=exaggeration,
+            )
+            audio = audio_tensor.squeeze(0).detach().cpu().numpy()
+            # Normalize SR for benchmarks
+            if self.model_sr != self.output_sr:
+                audio = librosa.resample(audio, orig_sr=self.model_sr, target_sr=self.output_sr)
+            return audio.astype(np.float32)
         except Exception as e:
             logger.error(f"❌ Chatterbox synthesis failed: {e}")
             raise
@@ -84,9 +110,20 @@ class ChatterboxWrapper(TTSModelWrapper):
             raise RuntimeError("Model not loaded")
         
         try:
-            # Voice cloning API call (placeholder)
-            audio = self.model.clone_and_synthesize(reference_audio, text)
-            return np.array(audio, dtype=np.float32)
+            # Save reference audio temporarily for prompt-based conditioning
+            temp_ref_path = "temp_chatterbox_reference.wav"
+            # Write using wrapper's output SR (model will resample internally)
+            sf.write(temp_ref_path, reference_audio, self.output_sr)
+            audio_tensor = self.model.generate(text, audio_prompt_path=temp_ref_path)
+            # Clean up temp file
+            try:
+                Path(temp_ref_path).unlink(missing_ok=True)
+            except Exception:
+                pass
+            audio = audio_tensor.squeeze(0).detach().cpu().numpy()
+            if self.model_sr != self.output_sr:
+                audio = librosa.resample(audio, orig_sr=self.model_sr, target_sr=self.output_sr)
+            return audio.astype(np.float32)
         except Exception as e:
             logger.error(f"❌ Chatterbox voice cloning failed: {e}")
             raise

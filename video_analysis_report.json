@@ -1,0 +1,163 @@
+{
+  "timestamp": "2025-12-24T11:56:48.769132",
+  "channel_url": "https://www.youtube.com/channel/UCnDBsELI2OIaEI5yxA77HNA",
+  "total_videos_analyzed": 40,
+  "recommended_videos": 1,
+  "top_videos": [
+    {
+      "rank": 1,
+      "video_id": "w4sarAE9h9I",
+      "title": "Turn YouTube Transcripts into Effective Content with Make.com",
+      "url": "https://www.youtube.com/watch?v=w4sarAE9h9I",
+      "duration_minutes": 28.9,
+      "total_score": 0.66,
+      "factors": {
+        "duration_score": 1.0,
+        "title_score": 0.5,
+        "estimated_quality": 1.0,
+        "popularity_score": 0.3,
+        "recency_score": 0.7
+      },
+      "audio_quality": {
+        "error": "Failed to download sample"
+      }
+    },
+    {
+      "rank": 2,
+      "video_id": "lDUtiFmQpnY",
+      "title": "AI Market Report June 25, 2025: What 100 Real Jobs Reveal About AI Demand (CORRECTED - WITH AUDIO)",
+      "url": "https://www.youtube.com/watch?v=lDUtiFmQpnY",
+      "duration_minutes": 16.5,
+      "total_score": 0.625,
+      "factors": {
+        "duration_score": 1.0,
+        "title_score": 0.5,
+        "estimated_quality": 0.82,
+        "popularity_score": 0.3,
+        "recency_score": 0.7
+      },
+      "audio_quality": {
+        "error": "Failed to download sample"
+      }
+    },
+    {
+      "rank": 3,
+      "video_id": "0YWpkJkbXxs",
+      "title": "Never lose power again. UPS UNBOXING.",
+      "url": "https://www.youtube.com/watch?v=0YWpkJkbXxs",
+      "duration_minutes": 14.75,
+      "total_score": 0.608,
+      "factors": {
+        "duration_score": 1.0,
+        "title_score": 0.5,
+        "estimated_quality": 0.74,
+        "popularity_score": 0.3,
+        "recency_score": 0.7
+      },
+      "audio_quality": {
+        "error": "Failed to download sample"
+      }
+    },
+    {
+      "rank": 4,
+      "video_id": "r4k2tqmpfEg",
+      "title": "Benefits of long term goals ",
+      "url": "https://www.youtube.com/watch?v=r4k2tqmpfEg",
+      "duration_minutes": 13.4,
+      "total_score": 0.594,
+      "factors": {
+        "duration_score": 1.0,
+        "title_score": 0.5,
+        "estimated_quality": 0.67,
+        "popularity_score": 0.3,
+        "recency_score": 0.7
+      },
+      "audio_quality": {
+        "error": "Failed to download sample"
+      }
+    },
+    {
+      "rank": 5,
+      "video_id": "1boVWBJ1Y3w",
+      "title": "Learning Business Terms: CAC",
+      "url": "https://www.youtube.com/watch?v=1boVWBJ1Y3w",
+      "duration_minutes": 13.1,
+      "total_score": 0.591,
+      "factors": {
+        "duration_score": 1.0,
+        "title_score": 0.5,
+        "estimated_quality": 0.66,
+        "popularity_score": 0.3,
+        "recency_score": 0.7
+      },
+      "audio_quality": {
+        "error": "Failed to download sample"
+      }
+    },
+    {
+      "rank": 6,
+      "video_id": "vlbmHVNTS-s",
+      "title": "Buying online courses can actually help you",
+      "url": "https://www.youtube.com/watch?v=vlbmHVNTS-s",
+      "duration_minutes": 10.75,
+      "total_score": 0.568,
+      "factors": {
+        "duration_score": 1.0,
+        "title_score": 0.5,
+        "estimated_quality": 0.54,
+        "popularity_score": 0.3,
+        "recency_score": 0.7
+      },
+      "audio_quality": {
+        "error": "Failed to download sample"
+      }
+    },
+    {
+      "rank": 7,
+      "video_id": "9_O0LqlW14I",
+      "title": "Thoughts on delivering a social networking solution ",
+      "url": "https://www.youtube.com/watch?v=9_O0LqlW14I",
+      "duration_minutes": 10.2,
+      "total_score": 0.562,
+      "factors": {
+        "duration_score": 1.0,
+        "title_score": 0.5,
+        "estimated_quality": 0.51,
+        "popularity_score": 0.3,
+        "recency_score": 0.7
+      },
+      "audio_quality": {
+        "error": "Failed to download sample"
+      }
+    },
+    {
+      "rank": 8,
+      "video_id": "rsAixBtUztM",
+      "title": "AI Appointment Setters Explained  ",
+      "url": "https://www.youtube.com/watch?v=rsAixBtUztM",
+      "duration_minutes": 6.383333333333334,
+      "total_score": 0.561,
+      "factors": {
+        "duration_score": 1.0,
+        "title_score": 0.75,
+        "estimated_quality": 0.32,
+        "popularity_score": 0.3,
+        "recency_score": 0.7
+      },
+      "audio_quality": {
+        "error": "Failed to download sample"
+      }
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "video_id": "w4sarAE9h9I",
+      "title": "Turn YouTube Transcripts into Effective Content with Make.com",
+      "url": "https://www.youtube.com/watch?v=w4sarAE9h9I",
+      "duration_minutes": 28.9,
+      "total_score": 0.66,
+      "why_recommended": "Ideal duration (5-30 minutes)"
+    }
+  ]
+}

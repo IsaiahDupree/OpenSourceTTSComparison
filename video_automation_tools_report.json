@@ -1,0 +1,66 @@
+{
+  "channel_url": "https://www.youtube.com/@HeftyLLM",
+  "analysis_date": "2025-12-24T13:13:02.815169",
+  "requirements": {
+    "needs_ai": false,
+    "needs_automation": true,
+    "needs_editing": true,
+    "video_type": "general"
+  },
+  "sample_titles": [
+    "TPUs Are BETTER. But Why No One Uses Them?",
+    "Why This $30,000 GPU Can't Game"
+  ],
+  "recommended_tools": [
+    {
+      "name": "YouTube API Python",
+      "description": "Official YouTube Data API for automation",
+      "url": "https://github.com/googleapis/google-api-python-client",
+      "category": "youtube_api",
+      "why": "Essential for YouTube automation"
+    },
+    {
+      "name": "MoviePy",
+      "description": "Video editing library for Python",
+      "url": "https://github.com/Zulko/moviepy",
+      "category": "video_editing",
+      "why": "Programmatic video editing and composition"
+    },
+    {
+      "name": "FFmpeg-Python",
+      "description": "Python bindings for FFmpeg",
+      "url": "https://github.com/kkroening/ffmpeg-python",
+      "category": "video_processing",
+      "why": "Powerful video processing capabilities"
+    },
+    {
+      "name": "Manim",
+      "description": "Mathematical animation engine",
+      "url": "https://github.com/3b1b/manim",
+      "category": "video_generation",
+      "why": "Create animated educational content"
+    },
+    {
+      "name": "Remotion",
+      "description": "Create videos programmatically with React",
+      "url": "https://github.com/remotion-dev/remotion",
+      "category": "video_generation",
+      "why": "React-based video creation"
+    }
+  ],
+  "github_searches": [
+    "https://github.com/search?q=youtube+video+automation&type=repositories&s=stars",
+    "https://github.com/search?q=automated+video+generation+python&type=repositories&s=stars",
+    "https://github.com/search?q=video+editing+automation&type=repositories&s=stars",
+    "https://github.com/search?q=ai+video+generator&type=repositories&s=stars",
+    "https://github.com/search?q=bulk+video+creation&type=repositories&s=stars",
+    "https://github.com/search?q=short+form+video+automation&type=repositories&s=stars"
+  ],
+  "workflow_suggestion": {
+    "step_1": "Content Generation (scripts, images, audio)",
+    "step_2": "Video Assembly (MoviePy, FFmpeg)",
+    "step_3": "Editing & Effects (automated)",
+    "step_4": "Upload Automation (YouTube API)",
+    "step_5": "Metadata & Scheduling"
+  }
+}

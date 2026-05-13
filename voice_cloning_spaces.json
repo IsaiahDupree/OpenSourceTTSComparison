@@ -1,0 +1,330 @@
+{
+  "spaces": [
+    {
+      "_id": "658a42a9586088fd27913369",
+      "id": "myshell-ai/OpenVoice",
+      "likes": 1120,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2023-12-26T03:04:09.000Z"
+    },
+    {
+      "_id": "635cee781e2d8c6673d6f633",
+      "id": "BilalSardar/Voice-Cloning",
+      "likes": 545,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2022-10-29T09:12:24.000Z"
+    },
+    {
+      "_id": "66287f944aa023e6af7d3a9b",
+      "id": "myshell-ai/OpenVoiceV2",
+      "likes": 343,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2024-04-24T03:42:12.000Z"
+    },
+    {
+      "_id": "644b081ef9f1b0cd3d93f86a",
+      "id": "kevinwang676/Bark-with-Voice-Cloning",
+      "likes": 333,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2023-04-27T23:41:18.000Z"
+    },
+    {
+      "_id": "656f0d3c4f4459da31e412c9",
+      "id": "amphion/singing_voice_conversion",
+      "likes": 261,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2023-12-05T11:45:00.000Z"
+    },
+    {
+      "_id": "621ffddf36468d709f1847e1",
+      "id": "akhaliq/Real-Time-Voice-Cloning",
+      "likes": 250,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2022-03-02T23:29:35.000Z"
+    },
+    {
+      "_id": "65eb52c3fc5e160378d0d9e7",
+      "id": "mrfakename/MegaTTS3-Voice-Cloning",
+      "likes": 225,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2024-03-08T18:02:43.000Z"
+    },
+    {
+      "_id": "66b91b62510120845dd4a51a",
+      "id": "VoiceCloning-be/text-to-speech",
+      "likes": 136,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2024-08-11T20:13:22.000Z"
+    },
+    {
+      "_id": "646b8320f85ebf65c5312189",
+      "id": "GitMylo/bark-voice-cloning",
+      "likes": 107,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2023-05-22T14:58:40.000Z"
+    },
+    {
+      "_id": "65b5b5fffbdd49d97985a8a7",
+      "id": "Kikirilkov/Voice_Cloning",
+      "likes": 66,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2024-01-28T02:03:43.000Z"
+    },
+    {
+      "_id": "665cc795d94d2b1067d3484b",
+      "id": "Hilley/ChatTTS-OpenVoice",
+      "likes": 61,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2024-06-02T19:27:17.000Z"
+    },
+    {
+      "_id": "653d30a12273676554937b35",
+      "id": "fffiloni/coqui-bark-voice-cloning-docker",
+      "likes": 58,
+      "private": false,
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "createdAt": "2023-10-28T16:02:41.000Z"
+    },
+    {
+      "_id": "64d8fc0c8711e883ca9e84ac",
+      "id": "Brasd99/TTS-Voice-Cloner",
+      "likes": 51,
+      "private": false,
+      "sdk": "streamlit",
+      "tags": [
+        "streamlit",
+        "region:us"
+      ],
+      "createdAt": "2023-08-13T15:51:40.000Z"
+    },
+    {
+      "_id": "64de5ff40f599f78ef98f58a",
+      "id": "Brasd99/TTS-Voice-Conversion",
+      "likes": 51,
+      "private": false,
+      "sdk": "streamlit",
+      "tags": [
+        "streamlit",
+        "region:us"
+      ],
+      "createdAt": "2023-08-17T17:59:16.000Z"
+    },
+    {
+      "_id": "64405b81194b02fd309556c4",
+      "id": "nateraw/voice-cloning",
+      "likes": 41,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2023-04-19T21:22:09.000Z"
+    },
+    {
+      "_id": "67fa53552b03c68dd25bd901",
+      "id": "hasanbasbunar/Voice-Cloning-XTTS-v2",
+      "likes": 41,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2025-04-12T11:49:41.000Z"
+    },
+    {
+      "_id": "654b1d1bdff2f49007e81907",
+      "id": "kevinwang676/OpenAI-TTS-Voice-Conversion",
+      "likes": 40,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2023-11-08T05:31:07.000Z"
+    },
+    {
+      "_id": "644866db3e498d66919df52e",
+      "id": "kevinwang676/Voice-Cloning-for-Bilibili",
+      "likes": 39,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2023-04-25T23:48:43.000Z"
+    },
+    {
+      "_id": "65a5d7a4bcc380edddad14ca",
+      "id": "KaioSan/Voice-Cloning22",
+      "likes": 22,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2024-01-16T01:11:00.000Z"
+    },
+    {
+      "_id": "63da090f4d48d0f19a289189",
+      "id": "ramkamal2000/voice-cloning-yourtts",
+      "likes": 20,
+      "private": false,
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "createdAt": "2023-02-01T06:39:11.000Z"
+    }
+  ],
+  "test_results": [
+    {
+      "space_id": "myshell-ai/OpenVoice",
+      "accessible": true,
+      "has_api": true,
+      "error": null,
+      "api_info": "None",
+      "title": "myshell-ai/OpenVoice",
+      "likes": 1120
+    },
+    {
+      "space_id": "BilalSardar/Voice-Cloning",
+      "accessible": false,
+      "has_api": false,
+      "error": "The current space is in the invalid state: PAUSED. Please contact the owner to fix this.",
+      "title": "BilalSardar/Voice-Cloning",
+      "likes": 545
+    },
+    {
+      "space_id": "myshell-ai/OpenVoiceV2",
+      "accessible": true,
+      "has_api": true,
+      "error": null,
+      "api_info": "None",
+      "title": "myshell-ai/OpenVoiceV2",
+      "likes": 343
+    },
+    {
+      "space_id": "kevinwang676/Bark-with-Voice-Cloning",
+      "accessible": false,
+      "has_api": false,
+      "error": "The current space is in the invalid state: RUNTIME_ERROR. Please contact the owner to fix this.",
+      "title": "kevinwang676/Bark-with-Voice-Cloning",
+      "likes": 333
+    },
+    {
+      "space_id": "amphion/singing_voice_conversion",
+      "accessible": false,
+      "has_api": false,
+      "error": "The current space is in the invalid state: RUNTIME_ERROR. Please contact the owner to fix this.",
+      "title": "amphion/singing_voice_conversion",
+      "likes": 261
+    },
+    {
+      "space_id": "akhaliq/Real-Time-Voice-Cloning",
+      "accessible": false,
+      "has_api": false,
+      "error": "The current space is in the invalid state: RUNTIME_ERROR. Please contact the owner to fix this.",
+      "title": "akhaliq/Real-Time-Voice-Cloning",
+      "likes": 250
+    },
+    {
+      "space_id": "mrfakename/MegaTTS3-Voice-Cloning",
+      "accessible": false,
+      "has_api": false,
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "title": "mrfakename/MegaTTS3-Voice-Cloning",
+      "likes": 225
+    },
+    {
+      "space_id": "VoiceCloning-be/text-to-speech",
+      "accessible": true,
+      "has_api": true,
+      "error": null,
+      "api_info": "None",
+      "title": "VoiceCloning-be/text-to-speech",
+      "likes": 136
+    },
+    {
+      "space_id": "GitMylo/bark-voice-cloning",
+      "accessible": false,
+      "has_api": false,
+      "error": "The current space is in the invalid state: RUNTIME_ERROR. Please contact the owner to fix this.",
+      "title": "GitMylo/bark-voice-cloning",
+      "likes": 107
+    },
+    {
+      "space_id": "Kikirilkov/Voice_Cloning",
+      "accessible": true,
+      "has_api": true,
+      "error": null,
+      "api_info": "None",
+      "title": "Kikirilkov/Voice_Cloning",
+      "likes": 66
+    }
+  ]
+}

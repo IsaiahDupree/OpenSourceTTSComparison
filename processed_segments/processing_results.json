@@ -44,6 +44,26 @@
       "total_segments": 32
     },
     {
+      "input_file": "audio_samples\\2fNFMNBobnk_Posted via MediaPoster.m4a",
+      "segments": [],
+      "total_segments": 0
+    },
+    {
+      "input_file": "audio_samples\\3B7yHVFLhCM_Posted via MediaPoster.m4a",
+      "segments": [],
+      "total_segments": 0
+    },
+    {
+      "input_file": "audio_samples\\6ic9nz8slQk_Explore Live Coding with Imagination.m4a",
+      "segments": [],
+      "total_segments": 0
+    },
+    {
+      "input_file": "audio_samples\\DZmZvjtIJqs_ChatGPT 5.1 release date.m4a",
+      "segments": [],
+      "total_segments": 0
+    },
+    {
       "input_file": "audio_samples\\JXHPIahTayU_What era are you in\uff1f.m4a",
       "segments": [],
       "total_segments": 0
@@ -58,7 +78,7 @@
           "duration": 3.1811337868480725,
           "snr": 15.830618132277056,
           "voice_activity": 0.9716981132075472,
-          "spectral_quality": 0.0007769313281975808,
+          "spectral_quality": 0.0007769313281975807,
           "clarity": 1,
           "quality_score": 0.6499710015506741,
           "output_file": "processed_segments\\KpuEkonkuiU_2025 06 03 21 19 15_segment_0.wav",
@@ -114,7 +134,7 @@
           "duration": 4.504671201814059,
           "snr": 6.097077346568066,
           "voice_activity": 1.0,
-          "spectral_quality": 0.000593713595549674,
+          "spectral_quality": 0.0005937135955496761,
           "clarity": 0.7667398855516442,
           "quality_score": 0.5144374932951195,
           "output_file": "processed_segments\\Uh34kDEF500_AI's Revolutionary Impact on Software_segment_1.wav"
@@ -132,7 +152,7 @@
           "duration": 3.4597732426303853,
           "snr": 5.21621365753072,
           "voice_activity": 1.0,
-          "spectral_quality": 0.0007799962620582614,
+          "spectral_quality": 0.0007799962620582615,
           "clarity": 1,
           "quality_score": 0.5523181358277189,
           "output_file": "processed_segments\\w4sarAE9h9I_Turn YouTube Transcripts into Effective Content with Make.com_segment_0.wav",
@@ -163,7 +183,7 @@
       "duration": 3.1811337868480725,
       "snr": 15.830618132277056,
       "voice_activity": 0.9716981132075472,
-      "spectral_quality": 0.0007769313281975808,
+      "spectral_quality": 0.0007769313281975807,
       "clarity": 1,
       "quality_score": 0.6499710015506741,
       "output_file": "processed_segments\\KpuEkonkuiU_2025 06 03 21 19 15_segment_0.wav",
@@ -176,7 +196,7 @@
       "duration": 3.4597732426303853,
       "snr": 5.21621365753072,
       "voice_activity": 1.0,
-      "spectral_quality": 0.0007799962620582614,
+      "spectral_quality": 0.0007799962620582615,
       "clarity": 1,
       "quality_score": 0.5523181358277189,
       "output_file": "processed_segments\\w4sarAE9h9I_Turn YouTube Transcripts into Effective Content with Make.com_segment_0.wav",
@@ -197,7 +217,7 @@
     }
   ],
   "statistics": {
-    "total_files_processed": 5,
+    "total_files_processed": 9,
     "total_segments_found": 4,
     "average_quality_score": 0.5985832348231909,
     "best_quality_score": 0.6724936800012471,

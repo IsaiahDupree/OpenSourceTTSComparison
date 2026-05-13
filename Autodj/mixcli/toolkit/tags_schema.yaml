@@ -1,0 +1,50 @@
+# tags_schema.yaml
+version: 1
+fields:
+  file:
+    path: str
+    duration_sec: float
+    samplerate_hz: int
+    bitrate_kbps: int|null
+    format: str
+  rhythm:
+    bpm: float
+    bpm_confidence: float          # 0..1 (beat strength + stability)
+    downbeat_times: [float]        # seconds (approx)
+    phrase_bars:
+      intro: int                   # estimated 4/8/16/32
+      outro: int
+  harmony:
+    key_open: str                  # e.g., "8A", "9B"
+    key_name: str                  # e.g., "A minor", "Eb major"
+    key_confidence: float          # 0..1 (chroma profile match)
+    camelot_neighbors:
+      same: [str]                  # e.g., ["8A"]
+      safe: [str]                  # ±1 same letter
+      energy_boost: [str]          # +2 same letter
+      relative: [str]              # same number, other letter
+  energy:
+    energy_1_10: int               # calibrated global score
+    lufs_integrated: float         # LUFS (negative values)
+    peak_dbfs: float               # 0 dBFS ceiling is 0
+    percussiveness_1_10: int
+    dynamic_range_db: float
+  feel:
+    danceability_1_10: int         # beat regularity + onset clarity
+    timbre_brightness: str         # dark | neutral | bright
+    vocal_presence: str            # none | sparse | lead
+    instrumental: bool
+  mix:
+    vocal_band_energy_ratio: float # 300–3400 Hz harmonic energy share
+    sub_intensity_1_10: int
+    cue_points:
+      - { label: "mix_in", time: float }
+      - { label: "bass_swap", time: float }
+      - { label: "drop", time: float }
+    structure:
+      - { t_start: float, t_end: float, label: str }  # e.g., intro, verse, build, drop, break, outro
+  classify:
+    genre_top: str                 # optional; placeholder
+    genre_alt: [str]               # optional
+notes:
+  - Calibrate energy_1_10 and danceability_1_10 after first full-library pass.

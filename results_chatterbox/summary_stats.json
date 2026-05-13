@@ -1,0 +1,26 @@
+{
+  "performance": {
+    "avg_inference_time": {
+      "chatterbox": 3.982816823323568
+    },
+    "characters_per_second": {
+      "chatterbox": 25.966952397374893
+    },
+    "memory_usage_mb": {
+      "chatterbox": 8.283203125
+    }
+  },
+  "quality": {
+    "real_time_factor": {
+      "chatterbox": 0.73942460526106
+    }
+  },
+  "voice_cloning": {
+    "supported_models": [
+      "chatterbox"
+    ],
+    "avg_cloning_time": {
+      "chatterbox": 3.817924380302429
+    }
+  }
+}

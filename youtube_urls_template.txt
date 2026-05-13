@@ -1,0 +1,16 @@
+# YouTube URLs for High-Quality Voice Dataset
+# Add one URL per line
+# Lines starting with # are ignored
+# 
+# Tips for better voice cloning:
+# - Choose videos where you talk continuously (5+ minutes)
+# - Avoid videos with background music
+# - Solo talking is better than interviews/conversations
+# - Prefer videos with clear audio
+# - Longer videos = more data = better quality
+
+# Example URLs (replace with your videos):
+# https://www.youtube.com/watch?v=VIDEO_ID_1
+# https://www.youtube.com/watch?v=VIDEO_ID_2
+# https://youtu.be/VIDEO_ID_3
+

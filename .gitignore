@@ -45,6 +45,9 @@ temp_downloads/
 *.tmp
 *.temp
 
+# FAISS index artifacts
+index/
+
 # Node.js
 node_modules/
 npm-debug.log*
@@ -89,3 +92,10 @@ logs/
 test_results/
 benchmark_results/
 *.json.bak
+
+# Large model/checkpoint files (> GitHub 100MB limit)
+services/openvoice_api/checkpoints_v2_0417.zip
+*.zip
+*.ckpt
+*.safetensors
+*.onnx

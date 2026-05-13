@@ -1,0 +1,56 @@
+{
+  "chatterbox": {
+    "name": "Chatterbox",
+    "status": "not_installed",
+    "installation": false,
+    "basic_tts": false,
+    "voice_cloning": false,
+    "error": "Package not found",
+    "performance": {}
+  },
+  "coqui_tts": {
+    "name": "Coqui TTS (XTTS-v2)",
+    "status": "not_installed",
+    "installation": false,
+    "basic_tts": false,
+    "voice_cloning": false,
+    "error": "Package not found",
+    "performance": {}
+  },
+  "openvoice": {
+    "name": "OpenVoice",
+    "status": "not_installed",
+    "installation": false,
+    "basic_tts": false,
+    "voice_cloning": false,
+    "error": "OpenVoice directory not found. Clone from: https://github.com/myshell-ai/OpenVoice",
+    "performance": {}
+  },
+  "fish_speech": {
+    "name": "Fish-Speech",
+    "status": "not_installed",
+    "installation": false,
+    "basic_tts": false,
+    "voice_cloning": false,
+    "error": "Fish-Speech directory not found. Clone from: https://github.com/fishaudio/fish-speech",
+    "performance": {}
+  },
+  "gpt_sovits": {
+    "name": "GPT-SoVITS",
+    "status": "not_installed",
+    "installation": false,
+    "basic_tts": false,
+    "voice_cloning": false,
+    "error": "GPT-SoVITS directory not found. Clone from: https://github.com/RVC-Boss/GPT-SoVITS",
+    "performance": {}
+  },
+  "cosyvoice": {
+    "name": "CosyVoice",
+    "status": "not_installed",
+    "installation": false,
+    "basic_tts": false,
+    "voice_cloning": false,
+    "error": "CosyVoice directory not found. Clone from: https://github.com/FunAudioLLM/CosyVoice",
+    "performance": {}
+  }
+}

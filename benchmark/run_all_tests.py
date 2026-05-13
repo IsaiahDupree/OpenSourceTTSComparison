@@ -51,17 +51,17 @@ class ComprehensiveTTSBenchmark:
                 # Create and load model wrapper
                 wrapper = ModelFactory.create_wrapper(model_name)
                 if not wrapper.load_model():
-                    logger.error(f"❌ Failed to load {model_name}, skipping...")
+                    logger.error(f"Failed to load {model_name}, skipping...")
                     continue
                 
                 # Run benchmarks
                 model_results = self._benchmark_single_model(wrapper, test_data)
                 all_results[model_name] = model_results
                 
-                logger.info(f"✅ Completed benchmarking {model_name}")
+                logger.info(f"Completed benchmarking {model_name}")
                 
             except Exception as e:
-                logger.error(f"❌ Error benchmarking {model_name}: {e}")
+                logger.error(f"Error benchmarking {model_name}: {e}")
                 continue
         
         # Generate comprehensive report
@@ -84,7 +84,7 @@ class ComprehensiveTTSBenchmark:
                 results.append(perf_result)
                 
             except Exception as e:
-                logger.error(f"❌ Test case {test_case['id']} failed: {e}")
+                logger.error(f"Test case {test_case['id']} failed: {e}")
                 continue
         
         # Voice cloning tests (if supported)
@@ -101,7 +101,7 @@ class ComprehensiveTTSBenchmark:
                     results.append(result)
                     
                 except Exception as e:
-                    logger.error(f"❌ Voice cloning test {test_case['id']} failed: {e}")
+                    logger.error(f"Voice cloning test {test_case['id']} failed: {e}")
                     continue
         
         return results
@@ -157,11 +157,15 @@ class ComprehensiveTTSBenchmark:
         # Quality metrics
         quality_df = df[df['test_type'] == 'quality']
         if not quality_df.empty:
-            summary_stats['quality'] = {
-                'real_time_factor': quality_df.groupby('model')['real_time_factor'].mean().to_dict(),
-                'pesq_score': quality_df.groupby('model')['pesq_score'].mean().to_dict(),
-                'stoi_score': quality_df.groupby('model')['stoi_score'].mean().to_dict()
-            }
+            quality_stats = {}
+            if 'real_time_factor' in quality_df.columns:
+                quality_stats['real_time_factor'] = quality_df.groupby('model')['real_time_factor'].mean().to_dict()
+            if 'pesq_score' in quality_df.columns:
+                quality_stats['pesq_score'] = quality_df.groupby('model')['pesq_score'].mean().to_dict()
+            if 'stoi_score' in quality_df.columns:
+                quality_stats['stoi_score'] = quality_df.groupby('model')['stoi_score'].mean().to_dict()
+            if quality_stats:
+                summary_stats['quality'] = quality_stats
         
         # Voice cloning support
         cloning_df = df[df['test_type'] == 'voice_cloning']
@@ -302,7 +306,7 @@ class ComprehensiveTTSBenchmark:
             
             supported_models = cloning_df[cloning_df['supported'] == True]['model'].unique()
             for model in sorted(df['model'].unique()):
-                status = "✅ Supported" if model in supported_models else "❌ Not Supported"
+                status = "Supported" if model in supported_models else "Not Supported"
                 report_lines.append(f"- **{model.title()}**: {status}")
         
         report_lines.extend([
@@ -344,8 +348,8 @@ def main():
     benchmark_suite = ComprehensiveTTSBenchmark(args.output_dir)
     results = benchmark_suite.run_full_benchmark(args.models)
     
-    print(f"\n🎉 Benchmarking complete! Results saved to: {args.output_dir}/")
-    print(f"📊 Check benchmark_report.md for detailed analysis")
+    print(f"\nBenchmarking complete! Results saved to: {args.output_dir}/")
+    print(f"Check benchmark_report.md for detailed analysis")
 
 
 if __name__ == "__main__":

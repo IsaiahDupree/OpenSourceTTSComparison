@@ -1,0 +1,4 @@
+Text: This demonstrates the pub/sub messaging system for voice processing.
+Style: en_default
+Reference: processed_segments\0YWpkJkbXxs_Never lose power again. UPS UNBOXING._segment_0.wav
+Metadata: {'test_number': 3}

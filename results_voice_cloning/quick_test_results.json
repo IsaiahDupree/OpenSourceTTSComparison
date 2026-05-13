@@ -1,0 +1,99 @@
+{
+  "results": {
+    "pyttsx3": {
+      "name": "pyttsx3",
+      "status": "working",
+      "install_time": 4.959026336669922,
+      "works": true,
+      "error": null,
+      "voice_cloning": false,
+      "note": "Simple TTS, no voice cloning"
+    },
+    "gtts": {
+      "name": "gtts",
+      "status": "already_installed",
+      "install_time": 0.2825655937194824,
+      "works": true,
+      "error": null,
+      "voice_cloning": false,
+      "note": "Online TTS, requires internet, no voice cloning"
+    },
+    "coqui_tts": {
+      "name": "TTS",
+      "status": "timeout",
+      "install_time": 1051.824115037918,
+      "works": false,
+      "error": "Installation timeout after 300 seconds"
+    },
+    "edge_tts": {
+      "name": "edge-tts",
+      "status": "already_installed",
+      "install_time": 0.8278820514678955,
+      "works": true,
+      "error": null,
+      "voice_cloning": false,
+      "note": "Free Microsoft voices, no cloning but many voices"
+    },
+    "openai_tts": {
+      "name": "OpenAI TTS API",
+      "status": "available",
+      "works": true,
+      "voice_cloning": false,
+      "note": "Requires API key, pay-per-use, high quality",
+      "install_time": 0
+    },
+    "elevenlabs": {
+      "name": "ElevenLabs API",
+      "status": "available",
+      "works": true,
+      "voice_cloning": true,
+      "note": "Requires API key, pay-per-use, excellent voice cloning",
+      "install_time": 0
+    }
+  },
+  "recommendations": [
+    {
+      "type": "voice_cloning",
+      "name": "ElevenLabs API",
+      "key": "elevenlabs",
+      "priority": 1
+    },
+    {
+      "type": "lightweight_tts",
+      "name": "pyttsx3",
+      "key": "pyttsx3",
+      "priority": 2
+    },
+    {
+      "type": "lightweight_tts",
+      "name": "gtts",
+      "key": "gtts",
+      "priority": 2
+    },
+    {
+      "type": "lightweight_tts",
+      "name": "edge-tts",
+      "key": "edge_tts",
+      "priority": 2
+    },
+    {
+      "type": "lightweight_tts",
+      "name": "OpenAI TTS API",
+      "key": "openai_tts",
+      "priority": 2
+    },
+    {
+      "type": "api",
+      "name": "OpenAI TTS API",
+      "key": "openai_tts",
+      "priority": 3
+    },
+    {
+      "type": "api",
+      "name": "ElevenLabs API",
+      "key": "elevenlabs",
+      "priority": 3
+    }
+  ],
+  "timestamp": "2025-12-24T11:38:03.397600"
+}

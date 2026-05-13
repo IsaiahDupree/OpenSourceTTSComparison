@@ -1,0 +1,34 @@
+{
+  "coqui_tts": {
+    "name": "Coqui TTS (XTTS-v2)",
+    "installation_attempted": true,
+    "installation_success": false,
+    "basic_tts": false,
+    "voice_cloning": false,
+    "error": "Standard pip install failed. May need Visual C++ Build Tools on Windows.",
+    "workaround": "Manual installation required. See docs/installation_guide.md"
+  },
+  "chatterbox": {
+    "name": "Chatterbox",
+    "installation_attempted": true,
+    "installation_success": false,
+    "basic_tts": false,
+    "voice_cloning": false,
+    "error": "pip install failed",
+    "workaround": "Check if package name is correct or try: pip install chatterbox-tts"
+  },
+  "pyttsx3": {
+    "name": "pyttsx3",
+    "installation_success": true,
+    "basic_tts": true,
+    "voice_cloning": false,
+    "note": "Simple TTS, no voice cloning support"
+  },
+  "gtts": {
+    "name": "gTTS (Google TTS)",
+    "installation_success": true,
+    "basic_tts": true,
+    "voice_cloning": false,
+    "note": "Online TTS, requires internet, no voice cloning"
+  }
+}

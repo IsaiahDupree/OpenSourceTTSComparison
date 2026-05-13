@@ -1,0 +1,18 @@
+Loaded as API: https://myshell-ai-openvoicev2.hf.space ✔
+Client.predict() Usage Info
+---------------------------
+Named API endpoints: 0
+
+Unnamed API endpoints: 1
+
+ - predict(text_prompt, style, reference_audio, agree, fn_index=1) -> (info, synthesised_audio, reference_audio_used)
+    Parameters:
+     - [Textbox] text_prompt: str (required)  
+     - [Dropdown] style: str (required)  (Option from: [('en_default', 'en_default'), ('en_us', 'en_us'), ('en_br', 'en_br'), ('en_au', 'en_au'), ('en_in', 'en_in'), ('es_default', 'es_default'), ('fr_default', 'fr_default'), ('jp_default', 'jp_default'), ('zh_default', 'zh_default'), ('kr_default', 'kr_default')]) 
+     - [Audio] reference_audio: str | Dict(name: str (name of file), data: str (base64 representation of file), size: int (size of image in bytes), is_file: bool (true if the file has been uploaded to the server), orig_name: str (original name of the file)) (required)  
+     - [Checkbox] agree: bool (required)  
+    Returns:
+     - [Textbox] info: str 
+     - [Audio] synthesised_audio: str | Dict(name: str (name of file), data: str (base64 representation of file), size: int (size of image in bytes), is_file: bool (true if the file has been uploaded to the server), orig_name: str (original name of the file)) 
+     - [Audio] reference_audio_used: str | Dict(name: str (name of file), data: str (base64 representation of file), size: int (size of image in bytes), is_file: bool (true if the file has been uploaded to the server), orig_name: str (original name of the file)) 
+
