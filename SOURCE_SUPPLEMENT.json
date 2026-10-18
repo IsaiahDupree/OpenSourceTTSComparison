@@ -1,0 +1,1544 @@
+{
+  "supplements_snapshot": "27af56fa2485c7bf-r2",
+  "source_roots": [
+    "C:/Users/Isaia/Documents/Coding/OpenSourceTTSComparison"
+  ],
+  "files": {
+    "Autodj/.venv_mixcli311/Scripts/numba": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\Autodj\\.venv_mixcli311\\Scripts\\numba",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/Scripts/Activate.ps1": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\Scripts\\Activate.ps1",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/Scripts/activate.bat": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\Scripts\\activate.bat",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/Scripts/deactivate.bat": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\Scripts\\deactivate.bat",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/Scripts/get_gprof": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\Scripts\\get_gprof",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/Scripts/get_objgraph": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\Scripts\\get_objgraph",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/Scripts/numba": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\Scripts\\numba",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/Scripts/undill": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\Scripts\\undill",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/3d_drawing/mayavi2_spring.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\3d_drawing\\mayavi2_spring.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/3d_drawing/plot_basic.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\3d_drawing\\plot_basic.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/algorithms/plot_beam_search.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\algorithms\\plot_beam_search.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/algorithms/plot_betweenness_centrality.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\algorithms\\plot_betweenness_centrality.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/algorithms/plot_blockmodel.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\algorithms\\plot_blockmodel.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/algorithms/plot_circuits.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\algorithms\\plot_circuits.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/algorithms/plot_davis_club.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\algorithms\\plot_davis_club.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/algorithms/plot_dedensification.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\algorithms\\plot_dedensification.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/algorithms/plot_iterated_dynamical_systems.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\algorithms\\plot_iterated_dynamical_systems.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/algorithms/plot_krackhardt_centrality.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\algorithms\\plot_krackhardt_centrality.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/algorithms/plot_parallel_betweenness.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\algorithms\\plot_parallel_betweenness.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/algorithms/plot_rcm.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\algorithms\\plot_rcm.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/algorithms/plot_snap.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\algorithms\\plot_snap.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/algorithms/plot_subgraphs.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\algorithms\\plot_subgraphs.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/basic/plot_properties.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\basic\\plot_properties.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/basic/plot_read_write.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\basic\\plot_read_write.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/basic/plot_simple_graph.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\basic\\plot_simple_graph.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_center_node.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_center_node.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_chess_masters.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_chess_masters.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_custom_node_icons.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_custom_node_icons.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_degree.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_degree.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_directed.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_directed.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_edge_colormap.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_edge_colormap.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_ego_graph.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_ego_graph.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_eigenvalues.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_eigenvalues.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_four_grids.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_four_grids.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_house_with_colors.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_house_with_colors.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_knuth_miles.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_knuth_miles.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_labels_and_colors.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_labels_and_colors.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_multipartite_graph.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_multipartite_graph.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_node_colormap.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_node_colormap.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_rainbow_coloring.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_rainbow_coloring.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_random_geometric_graph.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_random_geometric_graph.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_sampson.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_sampson.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_selfloops.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_selfloops.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_simple_path.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_simple_path.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_spectral_grid.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_spectral_grid.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_tsp.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_tsp.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_unix_email.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_unix_email.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/drawing/plot_weighted_graph.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\drawing\\plot_weighted_graph.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/graph/plot_dag_layout.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\graph\\plot_dag_layout.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/graph/plot_degree_sequence.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\graph\\plot_degree_sequence.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/graph/plot_erdos_renyi.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\graph\\plot_erdos_renyi.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/graph/plot_expected_degree_sequence.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\graph\\plot_expected_degree_sequence.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/graph/plot_football.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\graph\\plot_football.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/graph/plot_karate_club.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\graph\\plot_karate_club.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/graph/plot_morse_trie.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\graph\\plot_morse_trie.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/graph/plot_napoleon_russian_campaign.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\graph\\plot_napoleon_russian_campaign.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/graph/plot_roget.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\graph\\plot_roget.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/graph/plot_triad_types.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\graph\\plot_triad_types.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/graph/plot_words.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\graph\\plot_words.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/subclass/plot_antigraph.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\subclass\\plot_antigraph.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox/share/doc/networkx-3.0/examples/subclass/plot_printgraph.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox\\share\\doc\\networkx-3.0\\examples\\subclass\\plot_printgraph.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/Scripts/Activate.ps1": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\Scripts\\Activate.ps1",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/Scripts/activate.bat": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\Scripts\\activate.bat",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/Scripts/deactivate.bat": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\Scripts\\deactivate.bat",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/Scripts/get_gprof": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\Scripts\\get_gprof",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/Scripts/get_objgraph": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\Scripts\\get_objgraph",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/Scripts/jp.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\Scripts\\jp.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/Scripts/jsonpointer": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\Scripts\\jsonpointer",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/Scripts/kakasi": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\Scripts\\kakasi",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/Scripts/num2words": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\Scripts\\num2words",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/Scripts/numba": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\Scripts\\numba",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/Scripts/plac_runner.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\Scripts\\plac_runner.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/Scripts/pywin32_postinstall.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\Scripts\\pywin32_postinstall.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/Scripts/pywin32_testall.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\Scripts\\pywin32_testall.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/Scripts/undill": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\Scripts\\undill",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/3d_drawing/mayavi2_spring.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\3d_drawing\\mayavi2_spring.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/3d_drawing/plot_basic.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\3d_drawing\\plot_basic.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/algorithms/plot_beam_search.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\algorithms\\plot_beam_search.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/algorithms/plot_betweenness_centrality.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\algorithms\\plot_betweenness_centrality.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/algorithms/plot_blockmodel.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\algorithms\\plot_blockmodel.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/algorithms/plot_circuits.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\algorithms\\plot_circuits.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/algorithms/plot_davis_club.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\algorithms\\plot_davis_club.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/algorithms/plot_dedensification.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\algorithms\\plot_dedensification.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/algorithms/plot_iterated_dynamical_systems.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\algorithms\\plot_iterated_dynamical_systems.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/algorithms/plot_krackhardt_centrality.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\algorithms\\plot_krackhardt_centrality.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/algorithms/plot_parallel_betweenness.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\algorithms\\plot_parallel_betweenness.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/algorithms/plot_rcm.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\algorithms\\plot_rcm.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/algorithms/plot_snap.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\algorithms\\plot_snap.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/algorithms/plot_subgraphs.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\algorithms\\plot_subgraphs.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/basic/plot_properties.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\basic\\plot_properties.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/basic/plot_read_write.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\basic\\plot_read_write.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/basic/plot_simple_graph.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\basic\\plot_simple_graph.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_chess_masters.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_chess_masters.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_custom_node_icons.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_custom_node_icons.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_degree.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_degree.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_directed.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_directed.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_edge_colormap.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_edge_colormap.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_ego_graph.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_ego_graph.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_eigenvalues.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_eigenvalues.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_four_grids.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_four_grids.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_house_with_colors.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_house_with_colors.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_knuth_miles.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_knuth_miles.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_labels_and_colors.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_labels_and_colors.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_multipartite_graph.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_multipartite_graph.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_node_colormap.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_node_colormap.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_rainbow_coloring.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_rainbow_coloring.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_random_geometric_graph.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_random_geometric_graph.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_sampson.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_sampson.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_selfloops.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_selfloops.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_simple_path.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_simple_path.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_spectral_grid.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_spectral_grid.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_tsp.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_tsp.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_unix_email.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_unix_email.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/drawing/plot_weighted_graph.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\drawing\\plot_weighted_graph.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/graph/plot_degree_sequence.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\graph\\plot_degree_sequence.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/graph/plot_erdos_renyi.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\graph\\plot_erdos_renyi.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/graph/plot_expected_degree_sequence.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\graph\\plot_expected_degree_sequence.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/graph/plot_football.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\graph\\plot_football.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/graph/plot_karate_club.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\graph\\plot_karate_club.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/graph/plot_morse_trie.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\graph\\plot_morse_trie.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/graph/plot_napoleon_russian_campaign.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\graph\\plot_napoleon_russian_campaign.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/graph/plot_roget.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\graph\\plot_roget.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/graph/plot_words.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\graph\\plot_words.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/subclass/plot_antigraph.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\subclass\\plot_antigraph.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/doc/networkx-2.8.8/examples/subclass/plot_printgraph.py": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\doc\\networkx-2.8.8\\examples\\subclass\\plot_printgraph.py",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/100.1d14ca44a3cc8849349f.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\100.1d14ca44a3cc8849349f.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1039.3fe94e87219c0ed159d3.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1039.3fe94e87219c0ed159d3.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1096.dd4c563e0483cbbeb9c9.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1096.dd4c563e0483cbbeb9c9.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1189.c1482e88f0e949753db6.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1189.c1482e88f0e949753db6.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1208.4b9ab7b231d39ebdbc3f.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1208.4b9ab7b231d39ebdbc3f.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1219.b5630aa3a46050fddc27.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1219.b5630aa3a46050fddc27.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1268.e75d8a6dd557ac8957ca.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1268.e75d8a6dd557ac8957ca.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1359.d5f23f0e2a6f67b69751.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1359.d5f23f0e2a6f67b69751.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1423.4bcf4453e1c1d12d872f.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1423.4bcf4453e1c1d12d872f.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1436.2c11d9dee0ad6f49e968.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1436.2c11d9dee0ad6f49e968.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1445.a0e099c27d073217031a.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1445.a0e099c27d073217031a.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1449.7026e8748d2a77e15d5b.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1449.7026e8748d2a77e15d5b.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1462.57e39f487257f25263d4.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1462.57e39f487257f25263d4.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1491.010c623dd546db976e95.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1491.010c623dd546db976e95.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1495.13603dd823bbf5eb08b3.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1495.13603dd823bbf5eb08b3.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1673.b0ee25168543434bdbca.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1673.b0ee25168543434bdbca.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1737.a5fc97075f693ec36fe6.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1737.a5fc97075f693ec36fe6.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1832.b1ede2fe899bdec88938.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1832.b1ede2fe899bdec88938.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1834.7445ad0c82371ac40737.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1834.7445ad0c82371ac40737.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1838.839690ff17ec3c532f0a.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1838.839690ff17ec3c532f0a.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1887.56f83f163a18c61efb16.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1887.56f83f163a18c61efb16.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1909.7487a09fefbe7f9eabb6.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1909.7487a09fefbe7f9eabb6.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1912.f16dddc294d66c3c81e9.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1912.f16dddc294d66c3c81e9.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1954.f1c519cb1415c7da3e8c.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1954.f1c519cb1415c7da3e8c.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1960.f8d8ef8a91360e60f0b9.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1960.f8d8ef8a91360e60f0b9.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1962.6a7da74e809b70d5200d.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1962.6a7da74e809b70d5200d.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1969.86e3168e52802569d650.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1969.86e3168e52802569d650.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1986.26029e99ef54a5652df8.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1986.26029e99ef54a5652df8.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/1991.84fc123d7cfe8ae2948e.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\1991.84fc123d7cfe8ae2948e.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2023.59b30086fbeff6d17e3b.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2023.59b30086fbeff6d17e3b.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2211.3123543dcc217549bbb0.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2211.3123543dcc217549bbb0.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/227.6bd3154334bb91c5ca1c.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\227.6bd3154334bb91c5ca1c.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2280.6614699f54522fffbc00.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2280.6614699f54522fffbc00.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/232.5419cbec68e3fd0cf431.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\232.5419cbec68e3fd0cf431.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2353.ab70488f07a7c0a7a3fd.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2353.ab70488f07a7c0a7a3fd.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/246.326a6482593e8a7bcd58.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\246.326a6482593e8a7bcd58.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2467.4227742ac4b60289f222.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2467.4227742ac4b60289f222.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/247.84259ab142dd8c151fc2.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\247.84259ab142dd8c151fc2.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2491.c169ecbc5fde2bcdb1b3.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2491.c169ecbc5fde2bcdb1b3.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2550.75fcaa650ffac405c0dc.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2550.75fcaa650ffac405c0dc.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2574.327dadfe49120269ff31.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2574.327dadfe49120269ff31.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2576.b98b7b23adeec4cb6932.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2576.b98b7b23adeec4cb6932.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2590.99e505d19b964439aa31.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2590.99e505d19b964439aa31.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2601.2429d5a03c8465ae6290.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2601.2429d5a03c8465ae6290.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2633.ea053b40991eb5adbc69.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2633.ea053b40991eb5adbc69.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2641.e77441e7a3e0d12834c5.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2641.e77441e7a3e0d12834c5.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/265.075516620075be935f98.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\265.075516620075be935f98.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2658.d1cae1b08b068d864368.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2658.d1cae1b08b068d864368.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2681.a47f40e38ecd31ccd687.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2681.a47f40e38ecd31ccd687.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2707.61050e600b0aa9624127.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2707.61050e600b0aa9624127.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2729.cafaf0caf2c0c83ac9fe.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2729.cafaf0caf2c0c83ac9fe.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2794.05495c139ed000b57598.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2794.05495c139ed000b57598.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2823.0b6015b5e03c08281f41.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2823.0b6015b5e03c08281f41.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2880.8483d51b11998bfe8e4b.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2880.8483d51b11998bfe8e4b.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2957.bc5eb9549a0b15c44916.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2957.bc5eb9549a0b15c44916.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/2959.b24c9f67d639376f5ead.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\2959.b24c9f67d639376f5ead.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3048.59e6166a886a78f4f698.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3048.59e6166a886a78f4f698.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3111.33574d9124842f355bce.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3111.33574d9124842f355bce.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3112.0757b31e24c5334fda73.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3112.0757b31e24c5334fda73.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3122.fed5688acdcf6ff6aa6b.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3122.fed5688acdcf6ff6aa6b.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/321.0fb994fd384a54491584.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\321.0fb994fd384a54491584.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3257.30af681f0c294efb65f7.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3257.30af681f0c294efb65f7.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3282.22e78350d54fcaf3c6c8.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3282.22e78350d54fcaf3c6c8.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3293.375c6685d72662fc062f.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3293.375c6685d72662fc062f.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3303.b5596c0715d2d58332fb.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3303.b5596c0715d2d58332fb.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3358.7ba73a6804155b619b44.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3358.7ba73a6804155b619b44.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3372.8eeafd96de9a7a205f40.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3372.8eeafd96de9a7a205f40.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/339.380593b40d8d41150a4e.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\339.380593b40d8d41150a4e.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3616.a4271ffcf2ac3b4c2338.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3616.a4271ffcf2ac3b4c2338.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3709.e33bc30c83272aa85628.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3709.e33bc30c83272aa85628.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3763.56191df5d72d2ffa5aa6.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3763.56191df5d72d2ffa5aa6.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3780.c9294dc98ae926717741.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3780.c9294dc98ae926717741.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3799.eaa0438bc5c41bad0516.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3799.eaa0438bc5c41bad0516.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3824.5e23be1e37fce5b7c6b3.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3824.5e23be1e37fce5b7c6b3.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3832.c6026c483bb46cc8e599.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3832.c6026c483bb46cc8e599.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3974.79f68bca9a02c92dab5e.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3974.79f68bca9a02c92dab5e.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/3991.678edf189fe92a216c70.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\3991.678edf189fe92a216c70.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4001.80ab3ef5300d7ce2d1fe.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4001.80ab3ef5300d7ce2d1fe.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4010.5271baedaaff5113c699.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4010.5271baedaaff5113c699.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4053.4945facc348478fd59f4.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4053.4945facc348478fd59f4.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4068.9cc41f46f729f2c4369b.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4068.9cc41f46f729f2c4369b.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4076.b4d803d8bf1bd6c97854.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4076.b4d803d8bf1bd6c97854.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4090.eec44f90a54aa383426c.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4090.eec44f90a54aa383426c.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4266.155b468271987c81d948.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4266.155b468271987c81d948.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4296.721da424585874d0789e.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4296.721da424585874d0789e.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4311.b44e8bc4829e0b1226d2.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4311.b44e8bc4829e0b1226d2.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4323.b2bd8a329a81d30ed039.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4323.b2bd8a329a81d30ed039.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4350.8c8a0e7a3ffe036494e1.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4350.8c8a0e7a3ffe036494e1.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4353.8572f6845cfde92dc152.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4353.8572f6845cfde92dc152.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4364.b9b49d8d836882f44e62.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4364.b9b49d8d836882f44e62.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4372.645626a2452c190dbb22.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4372.645626a2452c190dbb22.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4408.f24dd0edf35e08548967.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4408.f24dd0edf35e08548967.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4462.c3c6de84bc9399e0290d.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4462.c3c6de84bc9399e0290d.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4484.e1d2565d1a3daa5fe5f1.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4484.e1d2565d1a3daa5fe5f1.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4486.8d2f41ae787607b7bf31.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4486.8d2f41ae787607b7bf31.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4528.43328125d98d6cfdfa99.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4528.43328125d98d6cfdfa99.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4611.bd2b768223b0cd570834.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4611.bd2b768223b0cd570834.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4616.04cfbd55593c51921cc7.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4616.04cfbd55593c51921cc7.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4728.56c0b9d87316b2fa012e.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4728.56c0b9d87316b2fa012e.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4735.7731d551ca68bcb58e9f.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4735.7731d551ca68bcb58e9f.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4797.3740ef47b224a11a7fab.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4797.3740ef47b224a11a7fab.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4838.8db4c61349bfba200547.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4838.8db4c61349bfba200547.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4855.29e8dc6982ba4873487d.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4855.29e8dc6982ba4873487d.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4878.f7557c5c99a54b40c49b.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4878.f7557c5c99a54b40c49b.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/492.5f186062d2dcdf79c86c.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\492.5f186062d2dcdf79c86c.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4928.6cb408e4def87534970d.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4928.6cb408e4def87534970d.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4981.eed4ddb90566e90e3df4.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4981.eed4ddb90566e90e3df4.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/4982.c609185756485c6e3344.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\4982.c609185756485c6e3344.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5085.a38923f36b551620798a.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5085.a38923f36b551620798a.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5090.404be96d8a6eae1e719a.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5090.404be96d8a6eae1e719a.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5135.7f204de2153e4d85406d.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5135.7f204de2153e4d85406d.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5211.83e78dadcef89cae04bf.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5211.83e78dadcef89cae04bf.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5224.8a6bbc774d20be66fdfb.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5224.8a6bbc774d20be66fdfb.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5244.eefac84704ad30f00af3.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5244.eefac84704ad30f00af3.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5317.f4bba2e3d0f4fdd088f7.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5317.f4bba2e3d0f4fdd088f7.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5318.d5df5c275e925c22d780.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5318.d5df5c275e925c22d780.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5338.38c32bdfb0695f9b501f.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5338.38c32bdfb0695f9b501f.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5489.7fab44eac7538297b164.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5489.7fab44eac7538297b164.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5492.44728a640c37a4b4aa0c.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5492.44728a640c37a4b4aa0c.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5521.8d4f6dfc471f500e4311.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5521.8d4f6dfc471f500e4311.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5566.c76ea61eb723ee84e2cf.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5566.c76ea61eb723ee84e2cf.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5606.e03dfa10c124a03f36ba.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5606.e03dfa10c124a03f36ba.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/580.4ea1e6182e0b35ff091a.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\580.4ea1e6182e0b35ff091a.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5829.0e46d479b4ade4783661.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5829.0e46d479b4ade4783661.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5847.930208c25e45ecf30657.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5847.930208c25e45ecf30657.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5862.be1ec453e8db6844c62d.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5862.be1ec453e8db6844c62d.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5877.72ab5a29e95ce21981e4.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5877.72ab5a29e95ce21981e4.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5929.d561797f8259994ecdd8.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5929.d561797f8259994ecdd8.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5942.05cbcd55c5f45ff7db43.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5942.05cbcd55c5f45ff7db43.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/5987.7e967df5417044d337a4.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\5987.7e967df5417044d337a4.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6003.94cdab770c801f3c46f7.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6003.94cdab770c801f3c46f7.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6060.52dca011e9f2f279fc5e.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6060.52dca011e9f2f279fc5e.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6095.6e79e3bad86e054aa8c8.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6095.6e79e3bad86e054aa8c8.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6145.c422868290460078c013.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6145.c422868290460078c013.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6166.2bc9ac8e2156c0701a52.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6166.2bc9ac8e2156c0701a52.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6170.65d899f43342f1e34bf1.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6170.65d899f43342f1e34bf1.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6173.2a6e8f549894d9f11044.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6173.2a6e8f549894d9f11044.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6180.6e630074d1e028953a44.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6180.6e630074d1e028953a44.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6214.617de47747c5a9b19ef7.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6214.617de47747c5a9b19ef7.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6275.e99f9312900c481b467d.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6275.e99f9312900c481b467d.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6294.b3cb5e16527b9d09b4a2.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6294.b3cb5e16527b9d09b4a2.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6364.c592f3101de349ba3904.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6364.c592f3101de349ba3904.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6372.edc0712a4be855493530.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6372.edc0712a4be855493530.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6412.ebdf8da40f1ba8272df9.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6412.ebdf8da40f1ba8272df9.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6439.1723c0b3882bf535486e.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6439.1723c0b3882bf535486e.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6460.d9aaa1e48da295c6035d.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6460.d9aaa1e48da295c6035d.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/649.4081045b1737e4213282.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\649.4081045b1737e4213282.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6492.804d51a693edf6978ef4.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6492.804d51a693edf6978ef4.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6540.51c00e890179a4832552.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6540.51c00e890179a4832552.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6733.bb68f2476e482c2aace2.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6733.bb68f2476e482c2aace2.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6767.4b82d96c237ca7e31bc6.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6767.4b82d96c237ca7e31bc6.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6779.051cfbcb0700a96839b2.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6779.051cfbcb0700a96839b2.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6831.1df8fa4cabb5b1c19803.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6831.1df8fa4cabb5b1c19803.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6843.dabcc3c9658bc6ded6d1.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6843.dabcc3c9658bc6ded6d1.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6874.bb2f7fbc6ce56eecc800.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6874.bb2f7fbc6ce56eecc800.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6896.af1d649e0efae70b7b1a.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6896.af1d649e0efae70b7b1a.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6941.465bebbd3d8a024f5f15.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6941.465bebbd3d8a024f5f15.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6974.b5b353b8af28fbc91291.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6974.b5b353b8af28fbc91291.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6986.a89a5aba790481992875.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6986.a89a5aba790481992875.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/6993.c93f5a810fcf441cbb6f.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\6993.c93f5a810fcf441cbb6f.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7136.b312751fbb25b73f5e71.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7136.b312751fbb25b73f5e71.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7250.b88d0a5e237ff5ff1aad.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7250.b88d0a5e237ff5ff1aad.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7260.b47dcaccbe7991104e8a.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7260.b47dcaccbe7991104e8a.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7269.962f078e97afc4f68e79.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7269.962f078e97afc4f68e79.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/731.82a7b980b5b7f4b7a14f.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\731.82a7b980b5b7f4b7a14f.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7318.7cc6b4b0b3151b205ecb.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7318.7cc6b4b0b3151b205ecb.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7371.63b12ce793df713ab95b.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7371.63b12ce793df713ab95b.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7425.f1c25f6c8aaec77e8635.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7425.f1c25f6c8aaec77e8635.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7445.7c793c8e1720f8ec4f85.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7445.7c793c8e1720f8ec4f85.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7575.2e3e32236d5667bba43f.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7575.2e3e32236d5667bba43f.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7587.3112240b6b82407b0f16.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7587.3112240b6b82407b0f16.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7694.1cbff84dccb512476b7c.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7694.1cbff84dccb512476b7c.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7741.2ad1372a5862c4522be3.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7741.2ad1372a5862c4522be3.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7756.93d0ab41829355a147ab.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7756.93d0ab41829355a147ab.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7769.d39df7673ee2660a9ac4.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7769.d39df7673ee2660a9ac4.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7803.0c8929610218552319bf.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7803.0c8929610218552319bf.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7856.dd9523e57bed80f1f694.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7856.dd9523e57bed80f1f694.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7879.5c485d200dc01b6f43ff.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7879.5c485d200dc01b6f43ff.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7881.c5a234ce171f347c94e2.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7881.c5a234ce171f347c94e2.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/7990.01eaa552261b6e12a74a.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\7990.01eaa552261b6e12a74a.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8038.aea19fb961abd87d6255.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8038.aea19fb961abd87d6255.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/805.2a0b8ac50aa8e6ab096f.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\805.2a0b8ac50aa8e6ab096f.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8103.ed2b21471519b58a3d73.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8103.ed2b21471519b58a3d73.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8217.801fbb0b549a74238760.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8217.801fbb0b549a74238760.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8232.e31d5021e77a9b5215d6.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8232.e31d5021e77a9b5215d6.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8313.aac706f5036a7209b3a8.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8313.aac706f5036a7209b3a8.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8326.9dda93079a9e4f1b9be6.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8326.9dda93079a9e4f1b9be6.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8354.94077232b086a13541cc.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8354.94077232b086a13541cc.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8368.c75a4b32ae45ec88465d.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8368.c75a4b32ae45ec88465d.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8391.e5fb2e35cced405eb819.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8391.e5fb2e35cced405eb819.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/84.fe0a55d7756c37585fb4.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\84.fe0a55d7756c37585fb4.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8418.42e29778d4b49fb54e8e.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8418.42e29778d4b49fb54e8e.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8493.3b6106e45d5661438d8e.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8493.3b6106e45d5661438d8e.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8537.21b8b9ae0d81ae264499.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8537.21b8b9ae0d81ae264499.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8606.bc1b0136e61d173913cd.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8606.bc1b0136e61d173913cd.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/867.e814bf26fbfc77fc4f16.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\867.e814bf26fbfc77fc4f16.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/874.fbd3ae653c7337f3425b.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\874.fbd3ae653c7337f3425b.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8753.56da17175b663d61f9d3.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8753.56da17175b663d61f9d3.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8778.a3883f9acac5a903d6be.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8778.a3883f9acac5a903d6be.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8779.6eebdb56785e3d38a457.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8779.6eebdb56785e3d38a457.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8786.a2bc3dfc1ea13c04ba94.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8786.a2bc3dfc1ea13c04ba94.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8816.d7ec52fb31e9c6749593.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8816.d7ec52fb31e9c6749593.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8830.d5bb102ed8737ffe38cb.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8830.d5bb102ed8737ffe38cb.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8855.b17b9969fce42d0398e4.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8855.b17b9969fce42d0398e4.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/89.933673451ca4a51053cb.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\89.933673451ca4a51053cb.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/8915.ab253990b1581460b255.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\8915.ab253990b1581460b255.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/898.ed04189e15f0a3781fb1.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\898.ed04189e15f0a3781fb1.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9023.2ff687d7ff50df3719fc.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9023.2ff687d7ff50df3719fc.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9046.99c477ea375dcbb8c7ca.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9046.99c477ea375dcbb8c7ca.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9085.5a959b5878e7afd8a878.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9085.5a959b5878e7afd8a878.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9123.501219cd782693d6539f.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9123.501219cd782693d6539f.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9136.8f4cc6ecadcf250fd8ac.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9136.8f4cc6ecadcf250fd8ac.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9137.179a3c47465e7fb8f067.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9137.179a3c47465e7fb8f067.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9296.c82d1f1a8d9204ca6ed7.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9296.c82d1f1a8d9204ca6ed7.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9311.ad0012965aa52db7a3e3.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9311.ad0012965aa52db7a3e3.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9329.1683d45b6478b7c81a24.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9329.1683d45b6478b7c81a24.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9359.34d1b961b733676193cb.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9359.34d1b961b733676193cb.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9400.90fd1d2212781c80b587.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9400.90fd1d2212781c80b587.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9474.01b4e1d1e3376f4a5919.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9474.01b4e1d1e3376f4a5919.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9517.7056cafdf1da3a136d45.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9517.7056cafdf1da3a136d45.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9572.f91bbaa33e932d524f8f.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9572.f91bbaa33e932d524f8f.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/961.29c067b15a524e556eed.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\961.29c067b15a524e556eed.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9652.a8d2e5854bcae4d40041.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9652.a8d2e5854bcae4d40041.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9746.c7e86b432363dfd28caa.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9746.c7e86b432363dfd28caa.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9881.37d189ff085cb3468683.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9881.37d189ff085cb3468683.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9890.75ea8024e2c1c49c89a3.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9890.75ea8024e2c1c49c89a3.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/9892.6d289e7baed8c64d88e2.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\9892.6d289e7baed8c64d88e2.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/bootstrap.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\bootstrap.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/index.out.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\index.out.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/jlab_core.4a2106ef64a5fd6bb332.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\jlab_core.4a2106ef64a5fd6bb332.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/main.de00b63f7838f32348fe.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\main.de00b63f7838f32348fe.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/static/style.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\static\\style.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/themes/@jupyterlab/theme-dark-extension/index.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\themes\\@jupyterlab\\theme-dark-extension\\index.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/themes/@jupyterlab/theme-dark-high-contrast-extension/index.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\themes\\@jupyterlab\\theme-dark-high-contrast-extension\\index.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/lab/themes/@jupyterlab/theme-light-extension/index.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\lab\\themes\\@jupyterlab\\theme-light-extension\\index.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-notebook/lab-extension/static/261.ed6f8abd5781e8d11deb.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-notebook\\lab-extension\\static\\261.ed6f8abd5781e8d11deb.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-notebook/lab-extension/static/568.5e057f374374b68b6acf.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-notebook\\lab-extension\\static\\568.5e057f374374b68b6acf.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-notebook/lab-extension/static/928.fb1e84fb9063ca0568af.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-notebook\\lab-extension\\static\\928.fb1e84fb9063ca0568af.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-notebook/lab-extension/static/93.c48a681bb3e8043bbbd7.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-notebook\\lab-extension\\static\\93.c48a681bb3e8043bbbd7.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-notebook/lab-extension/static/remoteEntry.7e3d7768845089ad5f5f.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-notebook\\lab-extension\\static\\remoteEntry.7e3d7768845089ad5f5f.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-notebook/lab-extension/static/style.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-notebook\\lab-extension\\static\\style.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/327.d242f1a99504b2d5b629.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-widgets\\jupyterlab-manager\\static\\327.d242f1a99504b2d5b629.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/420.23ab95819c045f6c36bc.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-widgets\\jupyterlab-manager\\static\\420.23ab95819c045f6c36bc.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/439.b350310d057b43cdd50f.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-widgets\\jupyterlab-manager\\static\\439.b350310d057b43cdd50f.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/446.f8696ce72124c78273da.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-widgets\\jupyterlab-manager\\static\\446.f8696ce72124c78273da.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/586.085510630436c2e4273f.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-widgets\\jupyterlab-manager\\static\\586.085510630436c2e4273f.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/647.8458d9c331000024a14a.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-widgets\\jupyterlab-manager\\static\\647.8458d9c331000024a14a.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/651.fe40a967a60b543cf15c.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-widgets\\jupyterlab-manager\\static\\651.fe40a967a60b543cf15c.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/701.043aefe0b66133629348.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-widgets\\jupyterlab-manager\\static\\701.043aefe0b66133629348.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/722.53e4a64671c3c48de007.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-widgets\\jupyterlab-manager\\static\\722.53e4a64671c3c48de007.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/727.b26a6f3871012a0fd66a.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-widgets\\jupyterlab-manager\\static\\727.b26a6f3871012a0fd66a.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/898.db11fb1a7e18acb58b5b.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-widgets\\jupyterlab-manager\\static\\898.db11fb1a7e18acb58b5b.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/remoteEntry.35b6c65bd99dab37b910.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-widgets\\jupyterlab-manager\\static\\remoteEntry.35b6c65bd99dab37b910.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/style.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\@jupyter-widgets\\jupyterlab-manager\\static\\style.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/jupyterlab_pygments/static/568.1e2faa2ba0bbe59c4780.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\jupyterlab_pygments\\static\\568.1e2faa2ba0bbe59c4780.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/jupyterlab_pygments/static/747.67662283a5707eeb4d4c.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\jupyterlab_pygments\\static\\747.67662283a5707eeb4d4c.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/jupyterlab_pygments/static/remoteEntry.5cbb9d2323598fbda535.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\jupyterlab_pygments\\static\\remoteEntry.5cbb9d2323598fbda535.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/labextensions/jupyterlab_pygments/static/style.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\labextensions\\jupyterlab_pygments\\static\\style.js",
+      "reason": "portable authored code absent from staged source selection"
+    },
+    "venv_chatterbox311/share/jupyter/nbextensions/jupyter-js-widgets/extension.js": {
+      "source": "C:\\Users\\Isaia\\Documents\\Coding\\OpenSourceTTSComparison\\venv_chatterbox311\\share\\jupyter\\nbextensions\\jupyter-js-widgets\\extension.js",
+      "reason": "portable authored code absent from staged source selection"
+    }
+  }
+}
