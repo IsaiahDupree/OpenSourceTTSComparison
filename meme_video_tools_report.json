@@ -1,0 +1,240 @@
+{
+  "search_date": "2025-12-24T13:15:03.803271",
+  "generator_searches": [
+    {
+      "query": "meme video generator",
+      "url": "https://github.com/search?q=meme+video+generator&type=repositories&s=stars",
+      "category": "meme_generation"
+    },
+    {
+      "query": "meme video creator",
+      "url": "https://github.com/search?q=meme+video+creator&type=repositories&s=stars",
+      "category": "meme_generation"
+    },
+    {
+      "query": "meme generator python",
+      "url": "https://github.com/search?q=meme+generator+python&type=repositories&s=stars",
+      "category": "meme_generation"
+    },
+    {
+      "query": "bulk meme generator",
+      "url": "https://github.com/search?q=bulk+meme+generator&type=repositories&s=stars",
+      "category": "meme_generation"
+    },
+    {
+      "query": "meme video maker",
+      "url": "https://github.com/search?q=meme+video+maker&type=repositories&s=stars",
+      "category": "meme_aggregation"
+    },
+    {
+      "query": "meme compilation generator",
+      "url": "https://github.com/search?q=meme+compilation+generator&type=repositories&s=stars",
+      "category": "meme_generation"
+    }
+  ],
+  "aggregator_searches": [
+    {
+      "query": "meme aggregator",
+      "url": "https://github.com/search?q=meme+aggregator&type=repositories&s=stars",
+      "category": "meme_aggregation"
+    },
+    {
+      "query": "meme compilation generator",
+      "url": "https://github.com/search?q=meme+compilation+generator&type=repositories&s=stars",
+      "category": "meme_generation"
+    }
+  ],
+  "automation_searches": [
+    {
+      "query": "meme video automation",
+      "url": "https://github.com/search?q=meme+video+automation&type=repositories&s=stars",
+      "category": "meme_aggregation"
+    },
+    {
+      "query": "bulk meme generator",
+      "url": "https://github.com/search?q=bulk+meme+generator&type=repositories&s=stars",
+      "category": "meme_generation"
+    }
+  ],
+  "all_searches": [
+    {
+      "query": "meme video generator",
+      "url": "https://github.com/search?q=meme+video+generator&type=repositories&s=stars",
+      "category": "meme_generation"
+    },
+    {
+      "query": "meme video creator",
+      "url": "https://github.com/search?q=meme+video+creator&type=repositories&s=stars",
+      "category": "meme_generation"
+    },
+    {
+      "query": "meme generator python",
+      "url": "https://github.com/search?q=meme+generator+python&type=repositories&s=stars",
+      "category": "meme_generation"
+    },
+    {
+      "query": "meme aggregator",
+      "url": "https://github.com/search?q=meme+aggregator&type=repositories&s=stars",
+      "category": "meme_aggregation"
+    },
+    {
+      "query": "automated meme video",
+      "url": "https://github.com/search?q=automated+meme+video&type=repositories&s=stars",
+      "category": "meme_aggregation"
+    },
+    {
+      "query": "meme video automation",
+      "url": "https://github.com/search?q=meme+video+automation&type=repositories&s=stars",
+      "category": "meme_aggregation"
+    },
+    {
+      "query": "meme template video",
+      "url": "https://github.com/search?q=meme+template+video&type=repositories&s=stars",
+      "category": "meme_aggregation"
+    },
+    {
+      "query": "bulk meme generator",
+      "url": "https://github.com/search?q=bulk+meme+generator&type=repositories&s=stars",
+      "category": "meme_generation"
+    },
+    {
+      "query": "meme video maker",
+      "url": "https://github.com/search?q=meme+video+maker&type=repositories&s=stars",
+      "category": "meme_aggregation"
+    },
+    {
+      "query": "meme compilation generator",
+      "url": "https://github.com/search?q=meme+compilation+generator&type=repositories&s=stars",
+      "category": "meme_generation"
+    }
+  ],
+  "found_repositories": [
+    {
+      "name": "MemeBot",
+      "github_url": "https://github.com/sakkshm/MemeBot",
+      "description": "Python bot that collects memes from Reddit, compiles them into videos, and uploads to YouTube",
+      "category": "aggregation",
+      "features": ["Reddit collection", "Video compilation", "YouTube upload"],
+      "best_for": "Automated meme compilation at scale"
+    },
+    {
+      "name": "YASGU",
+      "github_url": "https://github.com/hankerspace/YASGU",
+      "description": "YouTube Automatised Shorts Generator and Uploader - uses GPT/LLMs and CoquiTTS",
+      "category": "ai_generation",
+      "features": ["GPT script generation", "CoquiTTS voiceover", "YouTube Shorts automation"],
+      "best_for": "AI-generated content automation"
+    },
+    {
+      "name": "DiscordMemeBot",
+      "github_url": "https://github.com/sabitahmad/DiscordMemeBot",
+      "description": "Discord bot that generates memes, auto-posts, and performs image manipulations",
+      "category": "generation",
+      "features": ["Meme generation", "Auto-posting", "Image manipulation"],
+      "best_for": "Discord integration"
+    },
+    {
+      "name": "AI-Meme-Generator",
+      "github_url": "https://github.com/JalalSayed1/AI-Meme-Generator",
+      "description": "Uses AI service APIs to generate memes with text and images",
+      "category": "ai_generation",
+      "features": ["AI-powered", "Text and image memes", "API-based"],
+      "best_for": "AI-powered meme creation"
+    },
+    {
+      "name": "Meme Search",
+      "github_url": "https://github.com/neonwatty/meme-search",
+      "description": "Open-source meme search engine, self-hosted with Python, Ruby, and Docker",
+      "category": "aggregation",
+      "features": ["Search engine", "Self-hosted", "Docker support"],
+      "best_for": "Finding meme content"
+    },
+    {
+      "name": "AI-Faceless-Video-Generator",
+      "github_url": "https://github.com/SamurAIGPT/AI-Faceless-Video-Generator",
+      "description": "Generates video scripts, voices, and talking faces entirely with AI",
+      "category": "ai_generation",
+      "features": ["Full AI pipeline", "Scripts, voices, faces", "Complete automation"],
+      "best_for": "End-to-end AI automation"
+    },
+    {
+      "name": "AI-Youtube-Shorts-Generator",
+      "github_url": "https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator",
+      "description": "Uses GPT-4, FFmpeg, and OpenCV to analyze videos and extract interesting sections",
+      "category": "video_processing",
+      "features": ["GPT-4", "FFmpeg", "OpenCV", "Video analysis"],
+      "best_for": "Video analysis and cropping"
+    }
+  ],
+  "known_tools": [
+    {
+      "name": "Meme Generator",
+      "description": "Python library for creating memes",
+      "github_url": "https://github.com/search?q=meme+generator+python&type=repositories&s=stars",
+      "category": "generation",
+      "features": [
+        "Text overlay",
+        "Image processing",
+        "Template support"
+      ]
+    },
+    {
+      "name": "Pillow (PIL)",
+      "description": "Python imaging library for meme creation",
+      "github_url": "https://github.com/python-pillow/Pillow",
+      "category": "image_processing",
+      "features": [
+        "Image manipulation",
+        "Text rendering",
+        "Format support"
+      ]
+    },
+    {
+      "name": "MoviePy",
+      "description": "Video editing for meme videos",
+      "github_url": "https://github.com/Zulko/moviepy",
+      "category": "video_editing",
+      "features": [
+        "Video composition",
+        "Text overlays",
+        "Effects"
+      ]
+    },
+    {
+      "name": "FFmpeg",
+      "description": "Video processing for meme compilation",
+      "github_url": "https://github.com/FFmpeg/FFmpeg",
+      "category": "video_processing",
+      "features": [
+        "Video merging",
+        "Format conversion",
+        "Effects"
+      ]
+    },
+    {
+      "name": "Meme Aggregator Tools",
+      "description": "Tools to collect and compile memes",
+      "github_url": "https://github.com/search?q=meme+aggregator&type=repositories&s=stars",
+      "category": "aggregation",
+      "features": [
+        "Content collection",
+        "Batch processing",
+        "Compilation"
+      ]
+    }
+  ],
+  "recommended_stack": {
+    "image_processing": "Pillow (PIL) for image manipulation",
+    "video_editing": "MoviePy for video composition",
+    "video_processing": "FFmpeg for advanced processing",
+    "automation": "Python scripts with YouTube API",
+    "aggregation": "Custom scripts or existing aggregators"
+  },
+  "workflow_suggestions": [
+    "1. Collect meme templates/images",
+    "2. Generate memes with text overlays (Pillow)",
+    "3. Compile into videos (MoviePy)",
+    "4. Add effects/transitions (FFmpeg)",
+    "5. Upload to platforms (YouTube API)"
+  ]
+}

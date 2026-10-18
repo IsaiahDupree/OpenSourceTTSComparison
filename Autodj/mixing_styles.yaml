@@ -1,0 +1,65 @@
+# mixing_styles.yaml
+version: 1
+styles:
+  three_band_eq_blend:         # BASIC: lows/mids/highs only
+    description: Long blend using 3-band EQ and bass swap on the 1
+    default_bars: 16
+    steps:
+      - { t_bar: -16, deck: B, action: "xfader", value: 0.0 }         # start closed
+      - { t_bar: -16, deck: B, action: "eq", band: "high", value: 0.40 }
+      - { t_bar: -16, deck: B, action: "eq", band: "mid",  value: 0.30 }
+      - { t_bar: -8,  deck: B, action: "eq", band: "high", value: 0.65 }
+      - { t_bar: -8,  deck: B, action: "eq", band: "mid",  value: 0.55 }
+      - { t_bar: -8,  deck: A, action: "eq", band: "low",  value: 1.00 }
+      - { t_bar: -1,  deck: B, action: "eq", band: "high", value: 0.90 }
+      - { t_bar: 0,   deck: A, action: "eq", band: "low",  value: 0.00 }  # BASS SWAP
+      - { t_bar: 0,   deck: B, action: "eq", band: "low",  value: 1.00 }
+      - { t_bar: 0,   deck: B, action: "xfader", value: 0.5 }
+      - { t_bar: +4,  deck: B, action: "xfader", value: 0.8 }
+      - { t_bar: +8,  deck: B, action: "xfader", value: 1.0 }
+      - { t_bar: +8,  deck: A, action: "eq", band: "mid",  value: 0.00 }
+      - { t_bar: +8,  deck: A, action: "eq", band: "high", value: 0.00 }
+
+  filter_in_bass_swap:
+    description: Shorter blend; HPF the incoming, swap lows on the 1
+    default_bars: 8
+    steps:
+      - { t_bar: -8,  deck: B, action: "filter", type: "HPF", value: 0.70 } # 70% cut
+      - { t_bar: -8,  deck: B, action: "xfader", value: 0.2 }
+      - { t_bar: -4,  deck: B, action: "filter_sweep", type: "HPF", to: 0.30 }
+      - { t_bar: 0,   deck: A, action: "eq", band: "low", value: 0.00 }     # BASS SWAP
+      - { t_bar: 0,   deck: B, action: "filter", type: "HPF", value: 0.00 } # open
+      - { t_bar: +2,  deck: B, action: "xfader", value: 0.8 }
+      - { t_bar: +4,  deck: B, action: "xfader", value: 1.0 }
+
+  impact_cut_echo:
+    description: Echo-out on the 1 → hard cut into next drop (use for big BPM/key jumps)
+    default_bars: 4
+    steps:
+      - { t_bar: -1,  deck: A, action: "fx", fx: "echo", feedback: 0.6, mix: 0.5 }
+      - { t_bar: 0,   deck: A, action: "cut" }
+      - { t_bar: 0,   deck: B, action: "play_from_cue", cue: "drop" }
+      - { t_bar: 0,   deck: B, action: "xfader", value: 1.0 }
+
+  acapella_bridge:
+    description: Lay vocal over A’s drums to pivot genre/mood safely
+    default_bars: 16
+    steps:
+      - { t_bar: -16, deck: B, action: "eq", band: "low",  value: 0.00 }
+      - { t_bar: -16, deck: B, action: "eq", band: "mid",  value: 0.80 }
+      - { t_bar: -16, deck: B, action: "eq", band: "high", value: 0.85 }
+      - { t_bar: -8,  deck: B, action: "xfader", value: 0.5 }
+      - { t_bar: 0,   deck: A, action: "cut" }
+      - { t_bar: 0,   deck: B, action: "eq", band: "low",  value: 1.00 }
+      - { t_bar: +4,  deck: B, action: "xfader", value: 1.0 }
+
+  breakdown_pivot:
+    description: Cut A into silence/breakdown, start B with riser → drop
+    default_bars: 8
+    steps:
+      - { t_bar: -4,  deck: A, action: "eq", band: "low", value: 0.00 }
+      - { t_bar: -2,  deck: A, action: "xfader", value: 0.2 }
+      - { t_bar: 0,   deck: A, action: "cut" }
+      - { t_bar: 0,   deck: B, action: "play_from_cue", cue: "build" }
+      - { t_bar: +4,  deck: B, action: "xfader", value: 0.8 }
+      - { t_bar: +8,  deck: B, action: "xfader", value: 1.0 }

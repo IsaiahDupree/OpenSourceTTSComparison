@@ -1,0 +1,39 @@
+version: 1
+
+time:
+  window_sec: 0.25          # analysis window
+  hop_sec: 0.125            # overlap for smoother curves
+  bar_quantize: 1           # snap actions to every N bars
+  phrase_bars: 16           # default analysis horizon around the swap
+
+bands:
+  # 3-band controls but with a bit more insight inside each
+  low:   {hz_min: 20,  hz_max: 150}
+  mid:   {hz_min: 300, hz_max: 3400}    # vocal & body
+  high:  {hz_min: 6000, hz_max: 16000}  # hats & air
+
+weights:
+  vocal_priority: 1.2       # protect incoming vocals in MID
+  transient_priority: 0.8   # protect crisp transients in HIGH
+  timbre_balance: 0.5       # prefer brighter track in HIGH if both are vocal
+  base_mask_thresh: 0.15    # minimal “advantage” to prefer a band
+
+gains:
+  # limits per deck per band (0..1 mapped to your EQ knobs)
+  min: {low: 0.0, mid: 0.0, high: 0.0}
+  max: {low: 1.0, mid: 1.0, high: 1.0}
+  smoothing_bars: 1         # moving-average smoothing
+
+bass_swap:
+  at_bar: 0                 # enforce one-bass rule at the “1”
+  pre_fade_bars: 1          # duck incoming lows slightly before swap
+
+style_defaults:
+  crossfader_after_swap_bars: 4
+
+explain:
+  delta_min: 0.08            # min gain change (0..1) to justify a note
+  vocal_delta_min: 0.15      # min incoming-outgoing vocal advantage to call out
+  transient_delta_min: 0.10  # min incoming-outgoing high-transients advantage
+  brightness_delta_min: 0.10 # min brightness bias to mention
+  log_json: false            # set true to emit a JSON log from the HUD

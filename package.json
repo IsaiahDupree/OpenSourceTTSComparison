@@ -1,0 +1,15 @@
+{
+  "name": "openvoice-v2-test",
+  "version": "1.0.0",
+  "description": "Test OpenVoice V2 API with JavaScript",
+  "main": "test_openvoice_v2.js",
+  "scripts": {
+    "test": "node test_openvoice_v2.js"
+  },
+  "dependencies": {
+    "@gradio/client": "^0.15.1",
+    "formdata-node": "^6.0.3",
+    "node-fetch": "^2.7.0"
+  },
+  "type": "module"
+}

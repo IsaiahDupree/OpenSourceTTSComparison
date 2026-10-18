@@ -1,0 +1,69 @@
+{
+  "channel_analysis": {
+    "total_videos": 4,
+    "characteristics": {
+      "has_code": false,
+      "has_ai_ml": false,
+      "has_automation": false,
+      "has_tutorial": false,
+      "video_length": "short",
+      "content_style": "general"
+    },
+    "sample_titles": [
+      "TPUs Are BETTER. But Why No One Uses Them?",
+      "192.0",
+      "Why This $30,000 GPU Can't Game",
+      "210.0"
+    ]
+  },
+  "github_searches": [
+    {
+      "search_term": "youtube video automation",
+      "github_search_url": "https://github.com/search?q=youtube+video+automation&type=repositories",
+      "category": "video_automation"
+    },
+    {
+      "search_term": "automated video generation",
+      "github_search_url": "https://github.com/search?q=automated+video+generation&type=repositories",
+      "category": "video_automation"
+    },
+    {
+      "search_term": "youtube content creator tool",
+      "github_search_url": "https://github.com/search?q=youtube+content+creator+tool&type=repositories",
+      "category": "video_automation"
+    },
+    {
+      "search_term": "video generation pipeline",
+      "github_search_url": "https://github.com/search?q=video+generation+pipeline&type=repositories",
+      "category": "video_automation"
+    },
+    {
+      "search_term": "youtube api automation python",
+      "github_search_url": "https://github.com/search?q=youtube+api+automation+python&type=repositories",
+      "category": "video_automation"
+    },
+    {
+      "search_term": "short form video automation",
+      "github_search_url": "https://github.com/search?q=short+form+video+automation&type=repositories",
+      "category": "video_automation"
+    }
+  ],
+  "recommended_categories": {
+    "Video Generation": [
+      "youtube video generator",
+      "automated video creator",
+      "video generation pipeline"
+    ],
+    "Content Automation": [
+      "youtube content automation",
+      "bulk video creation",
+      "video batch processing"
+    ],
+    "AI-Powered Tools": [
+      "ai video generator",
+      "llm video creator",
+      "gpt video automation"
+    ]
+  },
+  "timestamp": "2025-12-24T13:12:12.401750"
+}

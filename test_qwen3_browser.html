@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Qwen3-TTS Voice Design Test</title>
+    <script type="module">
+        import { client } from "https://cdn.jsdelivr.net/npm/@gradio/client@0.15.1/dist/index.js";
+
+        async function testQwen3TTS() {
+            const output = document.getElementById('output');
+            output.innerHTML = '<p>Connecting to Qwen3-TTS...</p>';
+
+            try {
+                const app = await client("Qwen/Qwen3-TTS-Voice-Design");
+                output.innerHTML += '<p>✅ Connected!</p>';
+
+                const text = "Hello! This is a test of the Qwen3-TTS voice design system.";
+                const instruct = "A clear and natural female voice, moderate speed, stable tone.";
+
+                output.innerHTML += `<p>Generating audio...</p>`;
+                output.innerHTML += `<p>Text: ${text}</p>`;
+                output.innerHTML += `<p>Instruction: ${instruct}</p>`;
+
+                const result = await app.predict("/tts_interface", [
+                    text,
+                    instruct
+                ]);
+
+                output.innerHTML += '<p>✅ Success! Audio generated.</p>';
+                output.innerHTML += `<p>Audio file: ${result}</p>`;
+                
+                // Create audio player
+                if (result) {
+                    const audio = document.createElement('audio');
+                    audio.controls = true;
+                    audio.src = result;
+                    output.appendChild(audio);
+                }
+
+            } catch (error) {
+                output.innerHTML += `<p>❌ Error: ${error.message}</p>`;
+                console.error(error);
+            }
+        }
+
+        // Run test on page load
+        window.addEventListener('DOMContentLoaded', testQwen3TTS);
+    </script>
+</head>
+<body>
+    <h1>Qwen3-TTS Voice Design Test</h1>
+    <div id="output"></div>
+</body>
+</html>
+

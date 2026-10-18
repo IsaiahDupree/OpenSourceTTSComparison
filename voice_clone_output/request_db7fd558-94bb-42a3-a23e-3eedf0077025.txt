@@ -1,0 +1,4 @@
+Text: The system is processing my voice and generating new audio.
+Style: en_default
+Reference: processed_segments\0YWpkJkbXxs_Never lose power again. UPS UNBOXING._segment_0.wav
+Metadata: {'test_number': 2}
